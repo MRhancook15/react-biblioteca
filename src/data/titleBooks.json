@@ -1,0 +1,5326 @@
+[
+    {
+        "TITULO": "¡No funciona la tele!",
+        "AUTOR": "Glenn Mccoy"
+    },
+    {
+        "TITULO": "¿Hay alguien allí?",
+        "AUTOR": " José Luis Mejía"
+    },
+    {
+        "TITULO": "¿Por qué a mí?",
+        "AUTOR": "Valeria Piazza Polizzi"
+    },
+    {
+        "TITULO": "¿Por qué? ",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "¿Quién mato a Palomino Mollero",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "16 cuentos latinoamericanos",
+        "AUTOR": "Julio Cortázar y varios"
+    },
+    {
+        "TITULO": "17 narraciones Latinoamericanas",
+        "AUTOR": "Varios"
+    },
+    {
+        "TITULO": "20 cuentos chinos y un dragón amarillo",
+        "AUTOR": " Guillermo Dañino"
+    },
+    {
+        "TITULO": "24 poetas Latinoamericanas",
+        "AUTOR": "Varios"
+    },
+    {
+        "TITULO": "7 ensayos – 50 años en la historia",
+        "AUTOR": "Emilio Romero y varios"
+    },
+    {
+        "TITULO": "7 ensayos interpret. de la Realidad Perú",
+        "AUTOR": " José Carlos Mariátegui"
+    },
+    {
+        "TITULO": "90-00 Antologia Cuento Brasileño cont",
+        "AUTOR": "María Alzira B. Nelson"
+    },
+    {
+        "TITULO": "A la hora en la tarde y de los juegos",
+        "AUTOR": " Edgar Rivera M."
+    },
+    {
+        "TITULO": "A Luis le pica la nariz",
+        "AUTOR": " Iván thays"
+    },
+    {
+        "TITULO": "A orillas del río piedra me senté y lloré",
+        "AUTOR": "Paulo Coelho"
+    },
+    {
+        "TITULO": "Abrapalabras + cuaderno de trabajo",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Abudón exterminador",
+        "AUTOR": "Ernesto Sábado"
+    },
+    {
+        "TITULO": "Actitud Verbal 3°",
+        "AUTOR": "Wilfredo Gonzáles Flores"
+    },
+    {
+        "TITULO": "Actitud Verbal 4°",
+        "AUTOR": "Wilfredo Gonzáles Flores"
+    },
+    {
+        "TITULO": "Actitud Verbal 5°",
+        "AUTOR": "Wilfred o Gonzáles Flores"
+    },
+    {
+        "TITULO": "Actitud Verbal 2°",
+        "AUTOR": "Wilfredo Gonzáles Flores"
+    },
+    {
+        "TITULO": "Adiós al barrio",
+        "AUTOR": "José Antonio Galloso"
+    },
+    {
+        "TITULO": "Adivina que estoy haciendo ¡",
+        "AUTOR": "Lilly C. de Cueto"
+    },
+    {
+        "TITULO": "África Tierra y Comunidades",
+        "AUTOR": "Asuri\/ Santillana"
+    },
+    {
+        "TITULO": "África Tierra y Comunidades 9",
+        "AUTOR": "Asuri\/ Santillana"
+    },
+    {
+        "TITULO": "Agua y otros cuentos",
+        "AUTOR": "José María Arguedas"
+    },
+    {
+        "TITULO": "Agua, Los Escoleros Warma Kuyay",
+        "AUTOR": "Jose María Arguedas"
+    },
+    {
+        "TITULO": "Aladino",
+        "AUTOR": "Edit. Miramar"
+    },
+    {
+        "TITULO": "Álbum 7 maravillas de Mundo ",
+        "AUTOR": "CR"
+    },
+    {
+        "TITULO": "Alcanzar el Liderazgo (guía)",
+        "AUTOR": "Elizabeth Q. Leary"
+    },
+    {
+        "TITULO": "Alegorías para un Amor Gitano y una Carta para Cesar Moro",
+        "AUTOR": "Luzgardo Leónidas M."
+    },
+    {
+        "TITULO": "Ali baba",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Alicia en el país de la maravilla",
+        "AUTOR": "Lewis Carrol"
+    },
+    {
+        "TITULO": "Alicia en el país de las maravillas",
+        "AUTOR": "Cuentos Infantiles"
+    },
+    {
+        "TITULO": "Amanecer",
+        "AUTOR": "Stephenie Meyer"
+    },
+    {
+        "TITULO": "Amanecer Libro de Lectura 3 ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Amaro y el enigma de la montaña",
+        "AUTOR": " Flor Sánchez Zúñiga"
+    },
+    {
+        "TITULO": "Amauta y su influencia",
+        "AUTOR": "Alberto Tauro"
+    },
+    {
+        "TITULO": "Amazonas Ruta Milenaria I",
+        "AUTOR": "Aldo B0laños"
+    },
+    {
+        "TITULO": "Amazonas Ruta Milenaria II",
+        "AUTOR": "Aldo B0laños"
+    },
+    {
+        "TITULO": "América Latina Regiones y países 8",
+        "AUTOR": "Asuri\/ Santillana"
+    },
+    {
+        "TITULO": "Amigos en el bosque",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Amores que matan",
+        "AUTOR": "Lucía Larogione"
+    },
+    {
+        "TITULO": "Ana Karerina",
+        "AUTOR": "León Tolstoi"
+    },
+    {
+        "TITULO": "Antolog. Mencionadas Honrosas y Finalistas de la Bienal Poesía Premio",
+        "AUTOR": "Ana Maria Intili otros"
+    },
+    {
+        "TITULO": "Antología",
+        "AUTOR": "Mercedes Cabello de C."
+    },
+    {
+        "TITULO": "Antología 50",
+        "AUTOR": "Manuel Gonzales Prada"
+    },
+    {
+        "TITULO": "Antología cuentos clásicos juveniles",
+        "AUTOR": "Alexander Pushkin"
+    },
+    {
+        "TITULO": "Antología de la Poesía peruana",
+        "AUTOR": "José Bonilla Amado"
+    },
+    {
+        "TITULO": "Antología de los Finalistas de la XIII Bienal de Poesía Premio COPE ",
+        "AUTOR": "Dpto de Relaciones Corporativas"
+    },
+    {
+        "TITULO": "Antología de los Poemas Ganadores y Finalistas de la XI Bienal premio Cope 2003",
+        "AUTOR": "Dpto de Relaciones Corporativas"
+    },
+    {
+        "TITULO": "Antología los mejores relatos de ficción",
+        "AUTOR": "M. G. Wells"
+    },
+    {
+        "TITULO": "Antología los mejores relatos de Terror llevados al cine",
+        "AUTOR": "Robert L. Stevenson"
+    },
+    {
+        "TITULO": "Antología Menciones Honrosas y Finalistas de la XVI Bienal de poesía cope",
+        "AUTOR": "Juan A. Carrasco"
+    },
+    {
+        "TITULO": "Antología poética",
+        "AUTOR": "Jorge Luis Borges"
+    },
+    {
+        "TITULO": "Antología poética",
+        "AUTOR": "Antonio Machado"
+    },
+    {
+        "TITULO": "Antología y los Poemas Ganadores y Finalistas de la XI Bienal premio Cope",
+        "AUTOR": "Dpto de Relaciones Coorporativas"
+    },
+    {
+        "TITULO": "Antonio Azorín",
+        "AUTOR": "Azorín"
+    },
+    {
+        "TITULO": "Aportes para el estudio Narrativa",
+        "AUTOR": "José Antonio Bravo"
+    },
+    {
+        "TITULO": "Aprendamos Matemática 5",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Aprendemos del gran Maestro ",
+        "AUTOR": "Asoc. Torre de Vigia de Biblias"
+    },
+    {
+        "TITULO": "Aprendiendo Gramática con Tuki 3",
+        "AUTOR": "Alberto Ibañez"
+    },
+    {
+        "TITULO": "Aprendizaje",
+        "AUTOR": "Sornof A. Mednick"
+    },
+    {
+        "TITULO": "Aquellas mujercitas",
+        "AUTOR": "Louige Maralcat"
+    },
+    {
+        "TITULO": "Aristóteles, el mejor gato para una bruja",
+        "AUTOR": " Dick King-Smith"
+    },
+    {
+        "TITULO": "Artes Plásticas 1°",
+        "AUTOR": "J. Villacorta P."
+    },
+    {
+        "TITULO": "Artes Plásticas 2°",
+        "AUTOR": "J. Villacorta P."
+    },
+    {
+        "TITULO": "Artes Plásticas 3°",
+        "AUTOR": "J. Villacorta P."
+    },
+    {
+        "TITULO": "Artes Plásticas 4°",
+        "AUTOR": "J. Villacorta P."
+    },
+    {
+        "TITULO": "Artes Plásticas 5°",
+        "AUTOR": "J. Villacorta P."
+    },
+    {
+        "TITULO": "Asentamientos Planificados Inka",
+        "AUTOR": "Jhon Hyslop"
+    },
+    {
+        "TITULO": "Así es el Perú Arequipa 4",
+        "AUTOR": "Ediciones Iberia"
+    },
+    {
+        "TITULO": "Así es el Perú Ruinas Arqueológicas 9",
+        "AUTOR": "Ediciones Iberia"
+    },
+    {
+        "TITULO": "Asía y Oceanía",
+        "AUTOR": "Asuri\/ Santillana"
+    },
+    {
+        "TITULO": "Asía y Oceanía 10",
+        "AUTOR": "Asuri\/ Santillana"
+    },
+    {
+        "TITULO": "Áspides de Las Rosas Nacaradas",
+        "AUTOR": "Eduardo Mazzini Jose F. "
+    },
+    {
+        "TITULO": "Atlas básico Universal y del Perú",
+        "AUTOR": "Bruño"
+    },
+    {
+        "TITULO": "Atlas del Cuerpo Humano",
+        "AUTOR": "Miguel Chuquicondor"
+    },
+    {
+        "TITULO": "Atlas del Cielo",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Atlas del Cuerpo Humano Tomo I grande",
+        "AUTOR": "Tomas Mac. Cracken"
+    },
+    {
+        "TITULO": "Atlas del Perú ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Atlas del Perú Geográfico Eco. y Cult.",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Atlas del Perú y del Mundo",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Atlas del Perú y del Mundo",
+        "AUTOR": "Bruño"
+    },
+    {
+        "TITULO": "Atlas del Perú y del Mundo",
+        "AUTOR": "Luis Alberto Quintanilla"
+    },
+    {
+        "TITULO": "Atlas del Perú y del Mundo",
+        "AUTOR": "Julio R. Villanueva"
+    },
+    {
+        "TITULO": "Atlas del Perú y del Mundo",
+        "AUTOR": "Juan Augusto Benavides"
+    },
+    {
+        "TITULO": "Atlas escolar - el universo y la Tierra",
+        "AUTOR": "E.D. Maferro"
+    },
+    {
+        "TITULO": "Atlas Geográfico",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Atlas Geográfico Político, Económico y Turístico",
+        "AUTOR": "Luis Pinto Carbajal"
+    },
+    {
+        "TITULO": "Atlas histórico ",
+        "AUTOR": "Jhon Poig Obiol"
+    },
+    {
+        "TITULO": "Atlas Ilustrado para comprender el Arte",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Atlas Universal de América y Europa",
+        "AUTOR": "E.D. Maferro"
+    },
+    {
+        "TITULO": "Atlas Universal de Asía, África y Oce.",
+        "AUTOR": "E.D. Maferro"
+    },
+    {
+        "TITULO": "Atletismo reglamento para competencias",
+        "AUTOR": "Toribio\/anyarin Injante"
+    },
+    {
+        "TITULO": "Aula de curso de Orientación escolar H. ",
+        "AUTOR": "Benito Cano"
+    },
+    {
+        "TITULO": "Aula de Curso de Orientación Escolar Mat. ",
+        "AUTOR": "Domingo Montero M."
+    },
+    {
+        "TITULO": "Avanzo Técnicas de Lectura y Ejercicios de Leng",
+        "AUTOR": "Juan López Ruiz"
+    },
+    {
+        "TITULO": "Avanzo Técnicas de Lectura y Ejercicios de Lenguaje 5",
+        "AUTOR": "Juan López Ruiz"
+    },
+    {
+        "TITULO": "Aventuras 1",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Aventuras de un osito",
+        "AUTOR": "Navarrete"
+    },
+    {
+        "TITULO": "Aventuras del lenguaje 3",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Aves sin nido",
+        "AUTOR": "Clorinda Matto de Turner"
+    },
+    {
+        "TITULO": "Aves sin nido",
+        "AUTOR": "Clorinda Matto de Turner"
+    },
+    {
+        "TITULO": "Aves sin nido",
+        "AUTOR": "Clorinda Matto de Turner"
+    },
+    {
+        "TITULO": "Ay cuanto me quiero",
+        "AUTOR": " Mauricio Paredes"
+    },
+    {
+        "TITULO": "Bajas Pasiones para un Otoño Azul",
+        "AUTOR": "Luzgardo Medina E."
+    },
+    {
+        "TITULO": "Baltazar",
+        "AUTOR": "Vicente Hudobro"
+    },
+    {
+        "TITULO": "Bambi",
+        "AUTOR": "Educativa"
+    },
+    {
+        "TITULO": "Bases Generales 2006",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Bases Generales Julio",
+        "AUTOR": "Ministerio de Educación "
+    },
+    {
+        "TITULO": "Ben Hur",
+        "AUTOR": "Lewis Wallace"
+    },
+    {
+        "TITULO": "Bestsellers Planeta",
+        "AUTOR": "Flaminga Road- Robert W."
+    },
+    {
+        "TITULO": "Betsy",
+        "AUTOR": "Harold Robbins"
+    },
+    {
+        "TITULO": "Biblia Infantil Antiguo y nuevo testamento",
+        "AUTOR": "Fernando Martínez de Alegría"
+    },
+    {
+        "TITULO": "Biblias Latinoamericanas",
+        "AUTOR": "Nuevo\/ Antiguo testamento"
+    },
+    {
+        "TITULO": "Bienvenido, Plumas",
+        "AUTOR": " María Fernanda H."
+    },
+    {
+        "TITULO": "Biografía de Martín Adán",
+        "AUTOR": "José Antonio Bravo"
+    },
+    {
+        "TITULO": "Biología ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Biología 1° sec.",
+        "AUTOR": "Audesick Byers"
+    },
+    {
+        "TITULO": "Biología 2° sec.",
+        "AUTOR": "Audesick Byers"
+    },
+    {
+        "TITULO": "Biología 4° sec. ",
+        "AUTOR": "Issac Tapia Arestegui"
+    },
+    {
+        "TITULO": "Biología II ",
+        "AUTOR": "Claude A. Villee"
+    },
+    {
+        "TITULO": "Biología Moderna 4° sec.",
+        "AUTOR": "Ernesto Samudio León"
+    },
+    {
+        "TITULO": "Biología recreativa 7",
+        "AUTOR": "Ethet Hanawer"
+    },
+    {
+        "TITULO": "Blanca Nieves los siete Enanitos",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Bodas de Sangre",
+        "AUTOR": "F. García Lopez"
+    },
+    {
+        "TITULO": "Bolita",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Brida",
+        "AUTOR": "Paulo Coelho"
+    },
+    {
+        "TITULO": "C@ro dice",
+        "AUTOR": " María Ines Falconi"
+    },
+    {
+        "TITULO": "Caligrafía",
+        "AUTOR": "Lilia Bertha Samaniego "
+    },
+    {
+        "TITULO": "Caligrafía II",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Caligrafiando 4to ",
+        "AUTOR": "Anibal Paredes"
+    },
+    {
+        "TITULO": "Cambio de Piel",
+        "AUTOR": "Carlos Fuentes"
+    },
+    {
+        "TITULO": "Camila",
+        "AUTOR": "Madeleine L’Engle"
+    },
+    {
+        "TITULO": "Caminantes del sol",
+        "AUTOR": "Inti"
+    },
+    {
+        "TITULO": "Cantar Mio Cid",
+        "AUTOR": "María Juana Ribas "
+    },
+    {
+        "TITULO": "Canto de loritos",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Caperucita roja",
+        "AUTOR": "Edit. Santa Bárbara"
+    },
+    {
+        "TITULO": "Caperucita roja (tal como se lo contaron a Jorge)",
+        "AUTOR": " Luis María Pescetti"
+    },
+    {
+        "TITULO": "Capulí Libro de lectura 4",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Caramelo Verde",
+        "AUTOR": "Fernando Ampuero "
+    },
+    {
+        "TITULO": "Cartas a María Elena",
+        "AUTOR": "José Luis Mejia"
+    },
+    {
+        "TITULO": "Casa de muñecas",
+        "AUTOR": "Herlink ibsen"
+    },
+    {
+        "TITULO": "Casa Tomada y otros cuentos ",
+        "AUTOR": "Julio Cortázar"
+    },
+    {
+        "TITULO": "Castellano 1° sec.",
+        "AUTOR": "Humberto Santillán Arista"
+    },
+    {
+        "TITULO": "Castellano 1° sec.",
+        "AUTOR": "Antenor Samaniego"
+    },
+    {
+        "TITULO": "Castellano 3° sec.",
+        "AUTOR": "Humberto Santillán Arista"
+    },
+    {
+        "TITULO": "Catalogo Chapaq Ñan",
+        "AUTOR": "The Great inca Route"
+    },
+    {
+        "TITULO": "Catalogo En la Tierra del Arco Iris",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Catálogo Fósil",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Catalogo Madre Tierra IV (catalog. Libros)",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Catalogo Renzo Ucelli",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Chacras Integrales",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Charlie y la fábrica de Chocolate",
+        "AUTOR": "Roald Dahl"
+    },
+    {
+        "TITULO": "Chimoc, el perro calato. Un verano inolvidable",
+        "AUTOR": " Andrea, Claudia Paz"
+    },
+    {
+        "TITULO": "Chiquiciencias 1",
+        "AUTOR": "Editorial Bruño"
+    },
+    {
+        "TITULO": "Chocolate caliente para el adolescente",
+        "AUTOR": "Jack Canfield- mark Victo"
+    },
+    {
+        "TITULO": "Cholito en la ciudad del Río hablador",
+        "AUTOR": "Oscar Colchado"
+    },
+    {
+        "TITULO": "Cholito en los andes mágicos",
+        "AUTOR": "Oscar Colchado"
+    },
+    {
+        "TITULO": "Cholito tras las huellas de Lucero",
+        "AUTOR": " Oscar Colchado L."
+    },
+    {
+        "TITULO": "Cholito y los dioses de Chavín",
+        "AUTOR": " Oscar Colchado L"
+    },
+    {
+        "TITULO": "Cien años de soledad",
+        "AUTOR": "Gabriel García Márquez"
+    },
+    {
+        "TITULO": "Cien Años de Soledad",
+        "AUTOR": "Gabriel García Marque"
+    },
+    {
+        "TITULO": "Cien Obras maestras de la pintura 2°",
+        "AUTOR": "Marcial Olivar"
+    },
+    {
+        "TITULO": "Ciencia de la Naturaleza",
+        "AUTOR": "Cultural S.A"
+    },
+    {
+        "TITULO": "Ciencia histórico sociales Fiesta 6",
+        "AUTOR": "Louisa Pinto, Consuelo Pasco, Clotilde Chevarría , Marco "
+    },
+    {
+        "TITULO": "Ciencia Tecnología y Amb. 1° sec",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencia Tecnología y Amb. 1° sec.",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencia Tecnología y Amb. 2° sec",
+        "AUTOR": "Miguel Levano B."
+    },
+    {
+        "TITULO": "Ciencia Tecnología y Amb. 2° sec",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencia Tecnología y Amb. 2° sec",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencia Tecnología y Amb. 3° sec",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencia Tecnología y Amb. 1° sec.",
+        "AUTOR": "Esteban Galdós Velásquez"
+    },
+    {
+        "TITULO": "Ciencia Tecnología y Amb. 2° sec.",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencia y Ambiente – Experiencias 4",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencia y Ambiente 3",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencia y Ambiente 3",
+        "AUTOR": "Ministerio de Education"
+    },
+    {
+        "TITULO": "Ciencia y Ambiente 4",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Ciencia y Ambiente 5",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Ciencia y Ambiente 6",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencia y Ambiente 6",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Ciencias naturales 1° sec.",
+        "AUTOR": "Carlos Emilio Vásquez U."
+    },
+    {
+        "TITULO": "Ciencias naturales 2° sec",
+        "AUTOR": "Issac Tapia A."
+    },
+    {
+        "TITULO": "Ciencias 3",
+        "AUTOR": "Editorial Bruño"
+    },
+    {
+        "TITULO": "Ciencias Amb. Ecología y Desarrollo Sost. ",
+        "AUTOR": "Bernard j. Nebel "
+    },
+    {
+        "TITULO": "Ciencias histórico Social 3",
+        "AUTOR": "Felipe Maestro García y varios"
+    },
+    {
+        "TITULO": "Ciencias histórico Sociales 2",
+        "AUTOR": "Felipe Maestro García y vario0s"
+    },
+    {
+        "TITULO": "Ciencias histórico Sociales 4",
+        "AUTOR": "Felipe Maestro García y varios"
+    },
+    {
+        "TITULO": "Ciencias histórico Sociales 5°",
+        "AUTOR": "Navarrete"
+    },
+    {
+        "TITULO": "Ciencias integradas 1",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencias naturales 1° sec",
+        "AUTOR": "Issac Tapia Arestegui"
+    },
+    {
+        "TITULO": "Ciencias naturales 1° sec",
+        "AUTOR": "German Coaila Arenas"
+    },
+    {
+        "TITULO": "Ciencias naturales 1° sec.",
+        "AUTOR": "Oscar Diaz Malva"
+    },
+    {
+        "TITULO": "Ciencias naturales 2° sec.",
+        "AUTOR": "Oscar Diaz Alva"
+    },
+    {
+        "TITULO": "Ciencias Naturales 2° sec.",
+        "AUTOR": "Sergio Sanchez Ortiz"
+    },
+    {
+        "TITULO": "Ciencias Naturales 2° sec.",
+        "AUTOR": "Oscar Diaz Alva"
+    },
+    {
+        "TITULO": "Ciencias Naturales 2",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencias Naturales 3",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencias Naturales 4 ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencias Naturales 5",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencias Naturales 6",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencias Naturales Aula",
+        "AUTOR": "Cultural"
+    },
+    {
+        "TITULO": "Ciencias naturales y ecología 1° sec",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencias naturales y ecología 2° sec",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ciencias Naturales y salud",
+        "AUTOR": "Educar"
+    },
+    {
+        "TITULO": "Ciencias Sociales Geografía e Historia 1",
+        "AUTOR": "Rocío Chirinos"
+    },
+    {
+        "TITULO": "Ciencias Sociales Geografía e Historia 2",
+        "AUTOR": "Rocío Chirinos"
+    },
+    {
+        "TITULO": "Cinco para las nueve y otros cuentos",
+        "AUTOR": "Alonso Cueto"
+    },
+    {
+        "TITULO": "Ciudades de papel",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Colibrí 3 Matemática",
+        "AUTOR": "Ediciones Coquito"
+    },
+    {
+        "TITULO": "Collacocha",
+        "AUTOR": "Enrique Solari Suenyne"
+    },
+    {
+        "TITULO": "Colmillo Blanco",
+        "AUTOR": "Jack London"
+    },
+    {
+        "TITULO": "Colón tras la ruta del poniente",
+        "AUTOR": "María Isabel Molina"
+    },
+    {
+        "TITULO": "Cometa 1 Naturaleza y comunidad",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Cometa 2 Naturaleza y comunidad",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Cometa 4 Naturaleza y Comunidad",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Comisión Ambiental Regional Moquegua ",
+        "AUTOR": "Folleto CONAM"
+    },
+    {
+        "TITULO": "Como agua para chocolate",
+        "AUTOR": "Laura Esquivel"
+    },
+    {
+        "TITULO": "Como domesticar a tus papas",
+        "AUTOR": " Mauricio Paredes"
+    },
+    {
+        "TITULO": "Comprensión de lectura Método Dolorier 3",
+        "AUTOR": "Ricardo Dolorier Urbano"
+    },
+    {
+        "TITULO": "Comprensión de lectura método Dolorier 4",
+        "AUTOR": "Ricardo Dolorier Urbano"
+    },
+    {
+        "TITULO": "Comunicación 1°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Comunicación 3° ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Comunicación 2° sec. ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Comunicación 4° sec. ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Comunicación 5° sec. ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Comunicación 5",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Comunicación Integral - Vínculos",
+        "AUTOR": "Erlita Ojeda"
+    },
+    {
+        "TITULO": "Comunicación Integral 1 Un paso adelante",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Comunicación Integral 2",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Comunicación Integral 2 primaria",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Comunicación Integral 2 Un paso adelante",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Comunicación Integral 3",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Comunicación Literatura Lenguaje 2°",
+        "AUTOR": "Anexo"
+    },
+    {
+        "TITULO": "Cóndor 4",
+        "AUTOR": "Editorial Bruño"
+    },
+    {
+        "TITULO": "Confabulari personal",
+        "AUTOR": "Juan Losi Arreola"
+    },
+    {
+        "TITULO": "Constitución Política del Perú ",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Constitución Política del Perú ",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Constitución Política del Perú ",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Construir texto y cuaderno de trabajo 1",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Construyendo obj. prácticos de metal ",
+        "AUTOR": "Willi Romel"
+    },
+    {
+        "TITULO": "Conversación con Lezama",
+        "AUTOR": "Eduardo Urdanivia B."
+    },
+    {
+        "TITULO": "Conversación en Catedral",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "Coquito ",
+        "AUTOR": "Everardo Zapata Santillana"
+    },
+    {
+        "TITULO": "Corazón",
+        "AUTOR": "Edmundo de Amicos"
+    },
+    {
+        "TITULO": "Corazón",
+        "AUTOR": "Edmundo Amias"
+    },
+    {
+        "TITULO": "Cordillera negra ",
+        "AUTOR": "Oscar Colchado"
+    },
+    {
+        "TITULO": "Cortaviento Libro de lectura 5",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Crepúsculo",
+        "AUTOR": "Stephenie Meyer"
+    },
+    {
+        "TITULO": "CRIBA IV Bienal de Novela Premio COPE 2013",
+        "AUTOR": "Julián Pérez"
+    },
+    {
+        "TITULO": "Cristo de espaldas",
+        "AUTOR": "Eduardo Caballero"
+    },
+    {
+        "TITULO": "Cristo Villegas",
+        "AUTOR": "Carlos Zavaleta"
+    },
+    {
+        "TITULO": "Crónica de América 1",
+        "AUTOR": "Plaza Janes"
+    },
+    {
+        "TITULO": "Crónica de América 2",
+        "AUTOR": "Plaza Janes"
+    },
+    {
+        "TITULO": "Crónica de América 3",
+        "AUTOR": "Plaza Janes"
+    },
+    {
+        "TITULO": "Crónica de América 4",
+        "AUTOR": "Plaza Janes"
+    },
+    {
+        "TITULO": "Cuaderno de Actividades 5° ",
+        "AUTOR": "Arzobispado de Lima"
+    },
+    {
+        "TITULO": "Cuaderno de Laboratorio 2° sec",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Cuaderno de Laboratorio 2° sec",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Cuaderno de Trabajo Geografía 1° sec. ",
+        "AUTOR": "Juan Agusto Benavides Estrada"
+    },
+    {
+        "TITULO": "Cuentarios Reales",
+        "AUTOR": "Inca Garcilaso de la Vega"
+    },
+    {
+        "TITULO": "Cuenticontando 1 3°",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Cuenticontando 2 3°",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Cuenticontando 3 3°",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Cuenticontando 4 3°",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Cuentipoemas 1 4°",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Cuentipoemas 2 4°",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Cuentipoemas 3 4°",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Cuentipoemas 4 4°",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Cuento de Navidad-El grillo del hogar",
+        "AUTOR": "Charles Dickens"
+    },
+    {
+        "TITULO": "Cuentos La Selva Para Ti-La Guerra de Animales ",
+        "AUTOR": "Catalina Alvarado Serpa"
+    },
+    {
+        "TITULO": "Cuentos Andinos",
+        "AUTOR": "Enrique López Albújar"
+    },
+    {
+        "TITULO": "Cuentos Clásicos Juveniles",
+        "AUTOR": "Varios autores"
+    },
+    {
+        "TITULO": "Cuentos Clásicos –La Cenicienta- Pinocho",
+        "AUTOR": "Toribio Anyarin Injante"
+    },
+    {
+        "TITULO": "Cuentos Completos",
+        "AUTOR": "Abraham Valdelomar"
+    },
+    {
+        "TITULO": "Cuentos completos\/1",
+        "AUTOR": "Julio Cortázar"
+    },
+    {
+        "TITULO": "Cuentos completos\/2",
+        "AUTOR": "Julio Cortázar"
+    },
+    {
+        "TITULO": "Cuentos completos\/3",
+        "AUTOR": "Julio Cortázar"
+    },
+    {
+        "TITULO": "Cuentos de la costa para ti el general camote-",
+        "AUTOR": "Catalina Alvarado Serpa"
+    },
+    {
+        "TITULO": "Cuentos de la costa para ti el general camote-",
+        "AUTOR": "Catalina Alvarado Serpa"
+    },
+    {
+        "TITULO": "Cuentos de la selva",
+        "AUTOR": "Horacio Quiroga"
+    },
+    {
+        "TITULO": "Cuentos de la Selva Para Ti-El Tunchi",
+        "AUTOR": "Catalina Alvarado Serpa"
+    },
+    {
+        "TITULO": "Cuentos de la Sierra para Ti",
+        "AUTOR": "Catalina Alvarado Serpa"
+    },
+    {
+        "TITULO": "Cuentos de la Sierra Para Ti-Malcoy El Achique",
+        "AUTOR": "Catalina Alvarado Serpa"
+    },
+    {
+        "TITULO": "Cuentos escogidos",
+        "AUTOR": "Horacio Quirrago"
+    },
+    {
+        "TITULO": "Cuentos escritos a Máquina",
+        "AUTOR": "Granni Rudari"
+    },
+    {
+        "TITULO": "Cuentos Inolvidables",
+        "AUTOR": "Julio Cortázar"
+    },
+    {
+        "TITULO": "Cuentos Latinoamericanos",
+        "AUTOR": "Jorge Luis Borges y varios"
+    },
+    {
+        "TITULO": "Cuentos Latinoamericanos Para Niños",
+        "AUTOR": "Arturo Corvuela – Pérez G. "
+    },
+    {
+        "TITULO": "Cuentos Maravillosos La Gallina de los Huevos ",
+        "AUTOR": "Toribio Anyarin Injante"
+    },
+    {
+        "TITULO": "Cuentos Rusos - Antología",
+        "AUTOR": "Jose Lein Entralgo"
+    },
+    {
+        "TITULO": "Cuentos-La Liebre y La Tortuga Hamsel y Gretel",
+        "AUTOR": "Toribio Anyarin Injante"
+    },
+    {
+        "TITULO": "Cuidado con lo que deseas",
+        "AUTOR": "Manuel L. Alonso"
+    },
+    {
+        "TITULO": "Cuídate, Claudia, cuando estés conmigo",
+        "AUTOR": " José Luis Mejía"
+    },
+    {
+        "TITULO": "Cumanes de la fauna",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Curso de Orient. Escolar Geog. Eco Hist.",
+        "AUTOR": "Diez Celaya"
+    },
+    {
+        "TITULO": "Curso de Orientación Escolar Ciencias Nat. ",
+        "AUTOR": "Casinello Espinoza"
+    },
+    {
+        "TITULO": "Curso Orientación Escolar Física y Química",
+        "AUTOR": "Dominga Montero m."
+    },
+    {
+        "TITULO": "Cuzco and Lima",
+        "AUTOR": "Clements R. Markham"
+    },
+    {
+        "TITULO": "Cuzco en Fotos",
+        "AUTOR": "Hernando Salazar Zamalba"
+    },
+    {
+        "TITULO": "Danny, el campeón del mundo",
+        "AUTOR": " Roald Dahl"
+    },
+    {
+        "TITULO": "David Copperfield",
+        "AUTOR": "Charles Dickens"
+    },
+    {
+        "TITULO": "De carta en carta ",
+        "AUTOR": "Ana María Machado"
+    },
+    {
+        "TITULO": "De mi aldea",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "De victoria Alejandro",
+        "AUTOR": "María Isabel Molina"
+    },
+    {
+        "TITULO": "Decimas Escogidas para la Buena Gente",
+        "AUTOR": "Jorge Alfredo Sánchez"
+    },
+    {
+        "TITULO": "Decreto ser feliz",
+        "AUTOR": " Iván Thays"
+    },
+    {
+        "TITULO": "Del mar a la ciudad",
+        "AUTOR": " Oscar Colchado"
+    },
+    {
+        "TITULO": "Desarrollo psicológico del niño ",
+        "AUTOR": "Paul H. Mugsen"
+    },
+    {
+        "TITULO": "Dialogo: entre Garcia Marquez",
+        "AUTOR": "Mario Vargas Llosa "
+    },
+    {
+        "TITULO": "Diálogos 2",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Diálogos 3",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Diálogos 4",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Diálogos 5",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Diálogos 6",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Diario de Ana María",
+        "AUTOR": "Miche Ovoist"
+    },
+    {
+        "TITULO": "Dibujo y Pintura Educ. Artística Primaria 3°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Dicc. de Sinónimos, Antónimos y Paro",
+        "AUTOR": "Nulesa- Karten Editora S.A"
+    },
+    {
+        "TITULO": "Dicc. Biograf. de Personalidades del Perú y del M.",
+        "AUTOR": "Navarrete"
+    },
+    {
+        "TITULO": "Dicc. de Sinónimos y Antónimos",
+        "AUTOR": "Norma"
+    },
+    {
+        "TITULO": "Dicc. de Sinónimos, Antónimos y Parónimos",
+        "AUTOR": "Esselur E.I.R.L"
+    },
+    {
+        "TITULO": "Dicc. Enciclopéd. Ilustrado de la lengua E.",
+        "AUTOR": "Navarrete"
+    },
+    {
+        "TITULO": "Dicc. Escolar Ilustrado biblioteca. Escolar",
+        "AUTOR": "Grupo La República"
+    },
+    {
+        "TITULO": "Diccionario",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Diccionario Bilingüe School Español ingle",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Diccionario Bruño",
+        "AUTOR": "Editorial Bruño"
+    },
+    {
+        "TITULO": "Diccionario de la lengua Española",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Diccionario de Sinónimos y Antónimos",
+        "AUTOR": "Guillermo Delgado C. – Martha I"
+    },
+    {
+        "TITULO": "Diccionario de Sinónimos y Antónimos",
+        "AUTOR": "Navarrete"
+    },
+    {
+        "TITULO": "Diccionario de Sinónimos y Antónimos",
+        "AUTOR": "Bruno"
+    },
+    {
+        "TITULO": "Diccionario de Sinónimos y Antónimos",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Diccionario Enciclopédico Ilustrado",
+        "AUTOR": "Credimar"
+    },
+    {
+        "TITULO": "Diccionario Escolar",
+        "AUTOR": "Navarrete"
+    },
+    {
+        "TITULO": "Diccionario escolar Ilustrado",
+        "AUTOR": "Grupo Editorial Norma"
+    },
+    {
+        "TITULO": "Diccionario Escolar Pionera",
+        "AUTOR": "Sopena"
+    },
+    {
+        "TITULO": "Diccionario Escuela Nueva",
+        "AUTOR": "Navarrete"
+    },
+    {
+        "TITULO": "Diccionario Español Inglés e Inglés- ",
+        "AUTOR": "Universidad de Chicago"
+    },
+    {
+        "TITULO": "Diccionario Infantil",
+        "AUTOR": "Norma"
+    },
+    {
+        "TITULO": "Diccionario Inglés – español y Ingles",
+        "AUTOR": "Navarrete"
+    },
+    {
+        "TITULO": "Diccionario Inglés – Español y Ingles",
+        "AUTOR": "Pocket Books"
+    },
+    {
+        "TITULO": "Diccionario Inglés – español y Ingles",
+        "AUTOR": "Lexus"
+    },
+    {
+        "TITULO": "Diccionario Inglés – Español y Ingles",
+        "AUTOR": "Océano"
+    },
+    {
+        "TITULO": "Diccionario Ingles \/ Español",
+        "AUTOR": "Richamond "
+    },
+    {
+        "TITULO": "Diccionario Juvenil",
+        "AUTOR": "Ediciones Coquito"
+    },
+    {
+        "TITULO": "Diccionario Juvenil Rances",
+        "AUTOR": "Sopena"
+    },
+    {
+        "TITULO": "Diccionario Oxford Escolar ",
+        "AUTOR": "OXFORD"
+    },
+    {
+        "TITULO": "Diccionario Panhispánico de Dudas",
+        "AUTOR": "Real Academia Española"
+    },
+    {
+        "TITULO": "Diccionario Pocket Español Ingles",
+        "AUTOR": "Richmond- A Santillana"
+    },
+    {
+        "TITULO": "Diccionario Pocket Inglés- español",
+        "AUTOR": "Pearson Longman"
+    },
+    {
+        "TITULO": "Diccionario Práctico del Estudiante",
+        "AUTOR": "Real Academia Española-"
+    },
+    {
+        "TITULO": "Diccionario Santillana 2",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Diccionario Santillana del Español",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Diccionario Satélite",
+        "AUTOR": "Bruño"
+    },
+    {
+        "TITULO": "Diccionario Sinónimos y Antónimos",
+        "AUTOR": "Maria Mliner"
+    },
+    {
+        "TITULO": "Didáctica de la Lengua Castellana y la Literatura",
+        "AUTOR": "Uri Ruiz Bikandi ( Coord.)"
+    },
+    {
+        "TITULO": "Dinámica del Método silva de control mental ",
+        "AUTOR": "Jose Silva- Burt Goldman"
+    },
+    {
+        "TITULO": "Dios llega al Hombre",
+        "AUTOR": "Sociedad Bíblica Peruana"
+    },
+    {
+        "TITULO": "Dioses y héroes de la mitología griega",
+        "AUTOR": " Ana María Shua"
+    },
+    {
+        "TITULO": "Domingo: el nieto que llego a Gran Mariscal T.1",
+        "AUTOR": "Edwin H. Adriazola Flores "
+    },
+    {
+        "TITULO": "Domingo:el nieto que llego Gran Mariscal T. 2",
+        "AUTOR": "Edwin H. Adriazola Flores"
+    },
+    {
+        "TITULO": "Domino 3",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Don Camilo ",
+        "AUTOR": "Giovanni Guorech"
+    },
+    {
+        "TITULO": "Don Juan Tenorio",
+        "AUTOR": "José Zorrilla"
+    },
+    {
+        "TITULO": "Don Quijote de la mancha",
+        "AUTOR": "Miguel de Cervantes Saavedra"
+    },
+    {
+        "TITULO": "Doña Bárbara",
+        "AUTOR": "Rómulo Gallegos"
+    },
+    {
+        "TITULO": "Dos cuentos azules y uno de paja",
+        "AUTOR": " Rosa Cerna Guardia"
+    },
+    {
+        "TITULO": "Drácula",
+        "AUTOR": "Bram Stocker"
+    },
+    {
+        "TITULO": "Eclipse",
+        "AUTOR": "Stephenie Meyer"
+    },
+    {
+        "TITULO": "Ecolog. Desarrollo Sustentable Amb. Perú",
+        "AUTOR": "Centro de Estudios y Asesoría"
+    },
+    {
+        "TITULO": "Ecología",
+        "AUTOR": "Barbara de Chille"
+    },
+    {
+        "TITULO": "Economía paras Principiantes",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Ecorregiones y Ecosistemas del Perú",
+        "AUTOR": "Antonio Brackegg"
+    },
+    {
+        "TITULO": "Edificare mi Iglesia 3° sec. ",
+        "AUTOR": "Arzobispado de Lima"
+    },
+    {
+        "TITULO": "Edipo Rey",
+        "AUTOR": "Sófocles"
+    },
+    {
+        "TITULO": "Edipo Rey \/ Antígona",
+        "AUTOR": "Sófocles"
+    },
+    {
+        "TITULO": "Edipo Rey y Antígona",
+        "AUTOR": "Electra"
+    },
+    {
+        "TITULO": "Edipo Rey y Electra",
+        "AUTOR": "Sófocles y Eurípides"
+    },
+    {
+        "TITULO": "Educación Artística 2° ",
+        "AUTOR": "Willy Gados Frías"
+    },
+    {
+        "TITULO": "Educación Artística 6 primaria",
+        "AUTOR": "Felix Huamán Q."
+    },
+    {
+        "TITULO": "Educación Artística Dibujo y Pintura 5°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Educación Artística, Arte y creatividad",
+        "AUTOR": "Edgard Urday Manrique"
+    },
+    {
+        "TITULO": "Educación Artísticas 4°sec",
+        "AUTOR": "Julio Hoyos Peña"
+    },
+    {
+        "TITULO": "Educación Cívica 1° sec.",
+        "AUTOR": "Luis Guillermo Talavera"
+    },
+    {
+        "TITULO": "Educación Cívica 1° sec.",
+        "AUTOR": "Juan Germán Prado"
+    },
+    {
+        "TITULO": "Educación Cívica 1° sec.",
+        "AUTOR": "Jauren Gonzales Fernández"
+    },
+    {
+        "TITULO": "Educación Cívica 3° sec.",
+        "AUTOR": "Juan Germán Prado"
+    },
+    {
+        "TITULO": "Educación Cívica 2° sec.",
+        "AUTOR": "Juan Germán Prado"
+    },
+    {
+        "TITULO": "Educación Cívica 5° sec.",
+        "AUTOR": "Boris Romero Humberto Ponce"
+    },
+    {
+        "TITULO": "Educación Cívica 2° sec.",
+        "AUTOR": "Boris Romero – Humbrto Ponce"
+    },
+    {
+        "TITULO": "Educación Cívica 5° sec.",
+        "AUTOR": "Augusto Salazar Bondy"
+    },
+    {
+        "TITULO": "Educación Cívica 5° sec.",
+        "AUTOR": "Boris Romero- Barbara Farfán- "
+    },
+    {
+        "TITULO": "Educación Cívica Defensa Civil ",
+        "AUTOR": "Francisco R.Arenas Machado"
+    },
+    {
+        "TITULO": "Educación Cívica Militar 5° sec.",
+        "AUTOR": "Juan Germán Prado"
+    },
+    {
+        "TITULO": "Educación Familiar 2° sec.",
+        "AUTOR": "Leila Castillo Abarco"
+    },
+    {
+        "TITULO": "Educación Familiar 1° sec. ",
+        "AUTOR": "Juan Germán Prado"
+    },
+    {
+        "TITULO": "Educación Familiar 2° sec.",
+        "AUTOR": "Juan Díaz León"
+    },
+    {
+        "TITULO": "Educación Familiar 3° sec.",
+        "AUTOR": "Leila Castillo Abarco"
+    },
+    {
+        "TITULO": "Educación Familiar 1°sec. ",
+        "AUTOR": "Irene Santoalla Silva"
+    },
+    {
+        "TITULO": "Educación Familiar 3° sec.",
+        "AUTOR": "Juan Germán Prado"
+    },
+    {
+        "TITULO": "Educación Familiar 2° sec.",
+        "AUTOR": "Irene Santoalla Silva"
+    },
+    {
+        "TITULO": "Educación Familiar 3° sec.",
+        "AUTOR": "Irene Santoalla Silva"
+    },
+    {
+        "TITULO": "Educación Física ",
+        "AUTOR": "Cesired"
+    },
+    {
+        "TITULO": "Educación Física 2",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Educación FISICA 4",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Educación Musical",
+        "AUTOR": "Inide"
+    },
+    {
+        "TITULO": "Educación y Medio Ambiente",
+        "AUTOR": "Patricia Altamirano Delgado"
+    },
+    {
+        "TITULO": "Efecto Invernadero",
+        "AUTOR": "Mario Bellatin"
+    },
+    {
+        "TITULO": "El 35 de mayo",
+        "AUTOR": "Eric Kastner"
+    },
+    {
+        "TITULO": "El Águila y la serpiente",
+        "AUTOR": "Martín Luis Germán"
+    },
+    {
+        "TITULO": "El alcalde de Zalamera",
+        "AUTOR": "Calderón de la Barca"
+    },
+    {
+        "TITULO": "El almohadón de plumas y otros cuentos",
+        "AUTOR": " Horacio Quiroga"
+    },
+    {
+        "TITULO": "El Alquimista",
+        "AUTOR": "Paulo Coelho"
+    },
+    {
+        "TITULO": "El amor en tiempos de cólera",
+        "AUTOR": "Gabriel García Márquez"
+    },
+    {
+        "TITULO": "El año de la Ballena",
+        "AUTOR": "Marco Antonio de la Parra"
+    },
+    {
+        "TITULO": "El Arcoíris",
+        "AUTOR": "María Isabel Molina"
+    },
+    {
+        "TITULO": "El asombroso circo de Primorosa ",
+        "AUTOR": " Flor Sánchez Zúñiga"
+    },
+    {
+        "TITULO": "El avaro Tartufo",
+        "AUTOR": "Moliere"
+    },
+    {
+        "TITULO": "El ave del sol y otros cuentos mágicos ",
+        "AUTOR": "F. Sánchez"
+    },
+    {
+        "TITULO": "El barón de la peste",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "El Burlador de Sevilla",
+        "AUTOR": "T. de Molina"
+    },
+    {
+        "TITULO": "El buscador de finales",
+        "AUTOR": " Pablo de Santis"
+    },
+    {
+        "TITULO": "El Caballero carmelo",
+        "AUTOR": "Abraham Valdelomar"
+    },
+    {
+        "TITULO": "El caballero Carmelo",
+        "AUTOR": " Abram Baldelomar"
+    },
+    {
+        "TITULO": "El caballero carmelo",
+        "AUTOR": "Abraham Valdelomar"
+    },
+    {
+        "TITULO": "El caballero Carmelo y otros C.",
+        "AUTOR": "Abraham Valdelomar"
+    },
+    {
+        "TITULO": "El caballero del jabón amarillo",
+        "AUTOR": "Arturo Pérez Revelte"
+    },
+    {
+        "TITULO": "El caballo que no sabia relinchar",
+        "AUTOR": " Griselda Gambaro"
+    },
+    {
+        "TITULO": "El camino de Sherlock",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "El cantero y el asno",
+        "AUTOR": "Mariano Melgar"
+    },
+    {
+        "TITULO": "El capitán ala triste",
+        "AUTOR": "Arturo y Carlota Pérez Revelte"
+    },
+    {
+        "TITULO": "El capitán Fush",
+        "AUTOR": " José María Bedoya"
+    },
+    {
+        "TITULO": "El caso del futbolista enmascarado",
+        "AUTOR": "Carlos Schlaen"
+    },
+    {
+        "TITULO": "El caso del loro perjurio",
+        "AUTOR": "Erle Stanley Gardner"
+    },
+    {
+        "TITULO": "El cazador de arcoíris",
+        "AUTOR": " Hernán Garrido- Leca"
+    },
+    {
+        "TITULO": "El cazador de figuras",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "El club, los sin mascota",
+        "AUTOR": " Leonor Bravo V."
+    },
+    {
+        "TITULO": "El compañero desconocido",
+        "AUTOR": "Marcelo Birmager"
+    },
+    {
+        "TITULO": "El compañero desconocido",
+        "AUTOR": "Marcelo Birmajer"
+    },
+    {
+        "TITULO": "El conde Lucanos",
+        "AUTOR": "Don Juan Manuel"
+    },
+    {
+        "TITULO": "El cóndor y yo",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "El conejito Cazador",
+        "AUTOR": "Navarrete"
+    },
+    {
+        "TITULO": "El consejo del oso",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "El consejo del oso",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "El constructor Joven 4",
+        "AUTOR": "Charles Clisan"
+    },
+    {
+        "TITULO": "El Costumbrismo en el Perú",
+        "AUTOR": "Jorge Cornejo Polar"
+    },
+    {
+        "TITULO": "El cristo de Villena",
+        "AUTOR": "Carlos Eduardo Zavaleta"
+    },
+    {
+        "TITULO": "El cuaderno de Mayra",
+        "AUTOR": "Marco Antonio de la Parra"
+    },
+    {
+        "TITULO": "El cuaderno de Mayra",
+        "AUTOR": "Marco A. de la Parra"
+    },
+    {
+        "TITULO": "El cuento de la isla desconocida",
+        "AUTOR": "José Saramago"
+    },
+    {
+        "TITULO": "El cuento de la Isla desconocida",
+        "AUTOR": "Margársete Yourcenar "
+    },
+    {
+        "TITULO": "El Cuento Peruano 1980-1990",
+        "AUTOR": "Ricardo Gonzales"
+    },
+    {
+        "TITULO": "El Cuento Peruano 1990-2000",
+        "AUTOR": "Ricardo Gonzales "
+    },
+    {
+        "TITULO": "El Cuento Peruano 2001- 2010 tomo l",
+        "AUTOR": "Ricardo Gonzales"
+    },
+    {
+        "TITULO": "El Cuento Peruano 2001- 2010 tomo ll",
+        "AUTOR": "Ricardo Gonzales "
+    },
+    {
+        "TITULO": "El dedo mágico",
+        "AUTOR": "Roald Dahl"
+    },
+    {
+        "TITULO": "El dedo mágico",
+        "AUTOR": "Roald Dahl"
+    },
+    {
+        "TITULO": "El demonio y la señorita pryn",
+        "AUTOR": "Paulo Coelho"
+    },
+    {
+        "TITULO": "El drama de Jesús",
+        "AUTOR": "José Julio Martínez S. I"
+    },
+    {
+        "TITULO": "El efecto invernadero",
+        "AUTOR": "M. Bright"
+    },
+    {
+        "TITULO": "El enfermo Imaginario – ",
+        "AUTOR": "Molierede Larra"
+    },
+    {
+        "TITULO": "El error de una madre",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "El escarabajo de oro y otros cuentos",
+        "AUTOR": "Edgar Allan Poe"
+    },
+    {
+        "TITULO": "El extraño caso del Dr. Jeckill y Mr. Hyde Hamlet",
+        "AUTOR": " Robert Louis Stevens"
+    },
+    {
+        "TITULO": "El Flautista de Hamelin",
+        "AUTOR": "Edit. Bruño"
+    },
+    {
+        "TITULO": "El Fuego Sombrío",
+        "AUTOR": "V. G. Weyland"
+    },
+    {
+        "TITULO": "El gato con botas",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "El Gorrión Cuenta cuentos",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "El Gran gigante Bonachón",
+        "AUTOR": "Roald Dahl"
+    },
+    {
+        "TITULO": "El hablador",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "El hijo maldito",
+        "AUTOR": "Honorato de Balsac"
+    },
+    {
+        "TITULO": "El hombre y su propia Imagen",
+        "AUTOR": "Ermano Ducceschi"
+    },
+    {
+        "TITULO": "El hombre de paja",
+        "AUTOR": "Rosa Cerna Guadía"
+    },
+    {
+        "TITULO": "El hombre de paja",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "El hombre que calculaba",
+        "AUTOR": "Malba Taham"
+    },
+    {
+        "TITULO": "El hombrecito vestido de gris",
+        "AUTOR": "Fernando Alonso"
+    },
+    {
+        "TITULO": "El huésped",
+        "AUTOR": "Stephenie Meyer"
+    },
+    {
+        "TITULO": "El Imperio Contraataca",
+        "AUTOR": "Donald F. Glut"
+    },
+    {
+        "TITULO": "El Inca Garcilaso de América",
+        "AUTOR": "José Durand"
+    },
+    {
+        "TITULO": "El ingenioso Hidalgo Don quijote de la Mancha",
+        "AUTOR": "Miguel de Cervantes S."
+    },
+    {
+        "TITULO": "El jugador ",
+        "AUTOR": "Fedor Dostoreski"
+    },
+    {
+        "TITULO": "El Kero",
+        "AUTOR": "Jose Sabanal"
+    },
+    {
+        "TITULO": "El lago de los ensueños",
+        "AUTOR": "Juana Spyri"
+    },
+    {
+        "TITULO": "El lazarillo de Tormes",
+        "AUTOR": "Diego hurtado de Mendoza"
+    },
+    {
+        "TITULO": "El libro de la selva",
+        "AUTOR": "Durdyard Kiplins"
+    },
+    {
+        "TITULO": "El Libro De La Selva",
+        "AUTOR": "Toribio Anyarin Injante"
+    },
+    {
+        "TITULO": "El Libro de los Espejos",
+        "AUTOR": "Nilton Santiago"
+    },
+    {
+        "TITULO": "El libro de los Glumpos",
+        "AUTOR": "Heriberto Tejo"
+    },
+    {
+        "TITULO": "El lobo Rodolfo",
+        "AUTOR": " Vera, Claudia y Nora"
+    },
+    {
+        "TITULO": "El lobo y el hombre",
+        "AUTOR": "Los hernanos Grim"
+    },
+    {
+        "TITULO": "El lugar mas bonito del mundo",
+        "AUTOR": " Ann Cameron"
+    },
+    {
+        "TITULO": "El lugar más bonito del mundo",
+        "AUTOR": "Ann Cameron"
+    },
+    {
+        "TITULO": "El mago de oz",
+        "AUTOR": "Editorial Didáctica"
+    },
+    {
+        "TITULO": "El mago Merlín y el Rey Arturo",
+        "AUTOR": "Educativa"
+    },
+    {
+        "TITULO": "El mal viaje",
+        "AUTOR": " José Antonio Galloso"
+    },
+    {
+        "TITULO": "El maromero",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "El mejor de mis amigos",
+        "AUTOR": " Enrique Tamay"
+    },
+    {
+        "TITULO": "El mentor de Matemática",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "El método de Control mental",
+        "AUTOR": "José Silva"
+    },
+    {
+        "TITULO": "El milagro de la flor",
+        "AUTOR": "Edit. Miramar"
+    },
+    {
+        "TITULO": "El Monstro de los Cerros",
+        "AUTOR": "Luis Rodriguez C."
+    },
+    {
+        "TITULO": "El Movimiento Obrero N° 6",
+        "AUTOR": "Carlos Basombrio"
+    },
+    {
+        "TITULO": "El muchacho que inventaba H.",
+        "AUTOR": "Margaret Mahy"
+    },
+    {
+        "TITULO": "El mundo es ancho y ajeno",
+        "AUTOR": "Ciro Alegrías"
+    },
+    {
+        "TITULO": "El mundo es tuyo tienes que ganártelo",
+        "AUTOR": "Kim – Luso - Chong"
+    },
+    {
+        "TITULO": "El Muñeco Enamorado",
+        "AUTOR": "Toribio Anyarin Injante"
+    },
+    {
+        "TITULO": "El Narrador de Historias",
+        "AUTOR": "Enrique Congrains M."
+    },
+    {
+        "TITULO": "El nido de Águilas",
+        "AUTOR": "Jhon Carter"
+    },
+    {
+        "TITULO": "El niño con el velo",
+        "AUTOR": " Miguel Gutiérrez"
+    },
+    {
+        "TITULO": "El niño que vivía en las estrellas",
+        "AUTOR": "Jondi Sierra Fabra"
+    },
+    {
+        "TITULO": "El obsenio pájaro en la noche",
+        "AUTOR": "José Donoso"
+    },
+    {
+        "TITULO": "El Océano Galáctico",
+        "AUTOR": "José Luis Velasco"
+    },
+    {
+        "TITULO": "El orden de las cosas",
+        "AUTOR": "  Iván thays"
+    },
+    {
+        "TITULO": "El osezno febezno",
+        "AUTOR": " Tony Custer"
+    },
+    {
+        "TITULO": "El otoño del patriarca",
+        "AUTOR": "Gabriel García Márquez"
+    },
+    {
+        "TITULO": "El Papa mágico",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "El papa mago ",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "El patio de los círculos",
+        "AUTOR": " Jaime Homar"
+    },
+    {
+        "TITULO": "El pequeño Nicolas",
+        "AUTOR": " Goscinny-Sempe"
+    },
+    {
+        "TITULO": "El pequeño vampiro",
+        "AUTOR": "Angela Sommner"
+    },
+    {
+        "TITULO": "El pequeño vampiro",
+        "AUTOR": " Angela Sommer"
+    },
+    {
+        "TITULO": "El Perú y su Medio Ambiente",
+        "AUTOR": "Julio Diaz Palacios"
+    },
+    {
+        "TITULO": "El pizarrón encantado",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "El placer de la lectura 5",
+        "AUTOR": "Matilde Antonieta Layme"
+    },
+    {
+        "TITULO": "El placer de la lectura 6",
+        "AUTOR": "Matilde Antonieta Layme"
+    },
+    {
+        "TITULO": "El placer de leer",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "El príncipe",
+        "AUTOR": "Nicolás Machia Ovelo"
+    },
+    {
+        "TITULO": "El príncipe feliz",
+        "AUTOR": "Editorial Didáctica"
+    },
+    {
+        "TITULO": "El Príncipe que todo lo Aprendió de los Libros",
+        "AUTOR": "Jacinto Benavente"
+    },
+    {
+        "TITULO": "El príncipe y el mendigo ",
+        "AUTOR": "Mark Twain"
+    },
+    {
+        "TITULO": "El principito",
+        "AUTOR": "Antonieta de Saint-Exupery"
+    },
+    {
+        "TITULO": "El principito",
+        "AUTOR": "Antonie de Sanint Exupery"
+    },
+    {
+        "TITULO": "El puente de la soledad",
+        "AUTOR": "María Fernanda H."
+    },
+    {
+        "TITULO": "El Quijote antes de lo Quince",
+        "AUTOR": "Miguel de Cervantes Saavedra"
+    },
+    {
+        "TITULO": "El retrato de Dorian Gray",
+        "AUTOR": "Oscar Wilde"
+    },
+    {
+        "TITULO": "El rey midas",
+        "AUTOR": "Joseph Jacobs"
+    },
+    {
+        "TITULO": "El robot quiere bailar un Reggae",
+        "AUTOR": " Mauricio dela Cuba"
+    },
+    {
+        "TITULO": "El Rotario Peruano Iquitos - Perú",
+        "AUTOR": "Rotary Internacional"
+    },
+    {
+        "TITULO": "El salvador de Sevilla Don Juan Tenorio",
+        "AUTOR": "Tirso de Molina José Zorrilla"
+    },
+    {
+        "TITULO": "El sastrecillo valiente",
+        "AUTOR": "Didáctica"
+    },
+    {
+        "TITULO": "El secreto de las 7 semillas",
+        "AUTOR": "David Fischman"
+    },
+    {
+        "TITULO": "El secreto de las Islas de Pachacamac",
+        "AUTOR": " Hernán Garrido- Leca"
+    },
+    {
+        "TITULO": "El secreto de los cóndores plateados",
+        "AUTOR": " Virginia Wiese \/Miro "
+    },
+    {
+        "TITULO": "El secreto de Tony Huang y otros cuentos",
+        "AUTOR": " Hernán Garrido- Leca"
+    },
+    {
+        "TITULO": "El Señor de las Moscas",
+        "AUTOR": "William Golding"
+    },
+    {
+        "TITULO": "El Señor del Cero",
+        "AUTOR": "María Isabel Molina"
+    },
+    {
+        "TITULO": "El si de los niños",
+        "AUTOR": "L. Fernández de Muratín"
+    },
+    {
+        "TITULO": "El siglo de las luces",
+        "AUTOR": "Alejo Carpentier"
+    },
+    {
+        "TITULO": "El Sigma Lóg. Mat. – evaluaciones – repaso",
+        "AUTOR": "Enrique Matto Muzante"
+    },
+    {
+        "TITULO": "El sol de Breda",
+        "AUTOR": "Arturo Pérez Revelte"
+    },
+    {
+        "TITULO": "El soldadito de Plomo",
+        "AUTOR": "Hanz Christian Andersen"
+    },
+    {
+        "TITULO": "El sueño del celta",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "El tartamudo",
+        "AUTOR": "Abelardo Sánchez León"
+    },
+    {
+        "TITULO": "El terror de sexto \"B\"",
+        "AUTOR": " Yolanda Reyes"
+    },
+    {
+        "TITULO": "El terror de sexto “B”",
+        "AUTOR": "Yolanda Reyes"
+    },
+    {
+        "TITULO": "El traje nuevo del emperador",
+        "AUTOR": "Didáctica"
+    },
+    {
+        "TITULO": "El Túnel",
+        "AUTOR": "Ernesto Sábato"
+    },
+    {
+        "TITULO": "El Tungsteno",
+        "AUTOR": "César Vallejo"
+    },
+    {
+        "TITULO": "El Tungsteno \/ Paco Yunque",
+        "AUTOR": "César Vallejo"
+    },
+    {
+        "TITULO": "El último Tango en Paris",
+        "AUTOR": "Robert Alley"
+    },
+    {
+        "TITULO": "El Universo, origen y formación de la tierra 1",
+        "AUTOR": "Sauri\/ Santillana"
+    },
+    {
+        "TITULO": "El valiente Teo",
+        "AUTOR": " Erhard Dietl"
+    },
+    {
+        "TITULO": "El vencedor esta solo",
+        "AUTOR": "Paulo Coelho"
+    },
+    {
+        "TITULO": "El viaje de Maldi",
+        "AUTOR": "Els Vandell"
+    },
+    {
+        "TITULO": "El viaje de Odiseo",
+        "AUTOR": " Homero"
+    },
+    {
+        "TITULO": "El viaje del niño Goyito",
+        "AUTOR": "Felipe Pardo y Aliaga"
+    },
+    {
+        "TITULO": "El viejo saurio se retira",
+        "AUTOR": "Miguel Gutiérrez"
+    },
+    {
+        "TITULO": "El Viejo Sauro se Retira",
+        "AUTOR": "Miguel Gutiérrez"
+    },
+    {
+        "TITULO": "El Virus",
+        "AUTOR": "Carlos Cuauhtémoc"
+    },
+    {
+        "TITULO": "El volador invencible",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "El vuelo de los condores",
+        "AUTOR": "Abraham Valdelomar"
+    },
+    {
+        "TITULO": "El waycha en el relato Andino de Tradición Oral III Bienal de ",
+        "AUTOR": "Jhon Harvey Valle Araujo"
+    },
+    {
+        "TITULO": "El Zahir",
+        "AUTOR": "Paulo Coelho"
+    },
+    {
+        "TITULO": "El zoo a través del Cristal",
+        "AUTOR": "Rocio Castro Morgado"
+    },
+    {
+        "TITULO": "Elementos 2",
+        "AUTOR": "Máximo de la Cruz Solórzano"
+    },
+    {
+        "TITULO": "Elementos de Física Química 3° sec.",
+        "AUTOR": "Tauro del Pino"
+    },
+    {
+        "TITULO": "Eloísa está dibujo del almendro",
+        "AUTOR": "E. J. Poncela"
+    },
+    {
+        "TITULO": "En busca del tiempo Perdido",
+        "AUTOR": "Marcel Proust"
+    },
+    {
+        "TITULO": "En la Cumbre 6",
+        "AUTOR": "Editorial Bruño"
+    },
+    {
+        "TITULO": "En octubre no hay milagros",
+        "AUTOR": "Oswaldo Reynoso"
+    },
+    {
+        "TITULO": "Encicl. Hist. de la Republica -18 T.",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Enciclopedia Básica 5°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Enciclopedia Breve Hist. Del Arte",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Enciclopedia Bruño",
+        "AUTOR": "Bruño"
+    },
+    {
+        "TITULO": "Enciclopedia concisa Sopena",
+        "AUTOR": "Sopena"
+    },
+    {
+        "TITULO": "Enciclopedia de historia del mundo para niños",
+        "AUTOR": "Juan Castillo Morales"
+    },
+    {
+        "TITULO": "Enciclopedia de historia del Perú para niños",
+        "AUTOR": "Gustavo Ronz Muzzo y María Esla Ponz Muzzo Días"
+    },
+    {
+        "TITULO": "Enciclopedia de Informática",
+        "AUTOR": "Cultural"
+    },
+    {
+        "TITULO": "Enciclopedia de la Familia",
+        "AUTOR": "Gente"
+    },
+    {
+        "TITULO": "Enciclopedia de Matemática I",
+        "AUTOR": "Cultural"
+    },
+    {
+        "TITULO": "Enciclopedia de Matemática II",
+        "AUTOR": "Cultural"
+    },
+    {
+        "TITULO": "Enciclopedia del Perú Básica Tomo 6",
+        "AUTOR": "Hierro Perú"
+    },
+    {
+        "TITULO": "Enciclopedia Didáctica de las Ciencias N.",
+        "AUTOR": "Barbara de Chille"
+    },
+    {
+        "TITULO": "Enciclopedia Escolar 3°",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Enciclopedia Perú, 10000 Años de Pintura",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Enciclopedia Santillana 5°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Enciclopedia Técnica de la Ed, Vol. 1",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Enciclopedia Técnica de la Ed. Vol. 2",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Enciclopedia Técnica de la Ed. Vol. 3",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Enciclopedia Técnica de la Ed. Vol. 4 ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Enciclopedia Técnica de la Ed. Vol. 5",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Enciclopedia Técnica de la Ed. Vol. 6",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Encuentro con Fausto Pieza en un Movimiento y Coda",
+        "AUTOR": "Alonso Alegría"
+    },
+    {
+        "TITULO": "Enlaces 4",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Enlaces5",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "ENSAYO PREMIO COPE 2012.",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Ensayo sobre la ceguera",
+        "AUTOR": "José Saramago"
+    },
+    {
+        "TITULO": "Ensayos escogidos 44",
+        "AUTOR": "Flora Tristan"
+    },
+    {
+        "TITULO": "Ensayos sobre el Perú",
+        "AUTOR": "Marcial Rubio Correa"
+    },
+    {
+        "TITULO": "Enseñar Literatura en Secundaria: La Formación de Lectores Críticos Motivados y Ocultos",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Entre la Sombra y el Juego",
+        "AUTOR": "Juan Carlos Lázaro"
+    },
+    {
+        "TITULO": "Érase una Vez el Hombre",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Escalando",
+        "AUTOR": "Uldario Soza Carpio"
+    },
+    {
+        "TITULO": "Escalando",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Escena Primordial y otros Poemas",
+        "AUTOR": "Christian Zegarra B."
+    },
+    {
+        "TITULO": "Esclavitud y capitalismo",
+        "AUTOR": "Eugene Genovese"
+    },
+    {
+        "TITULO": "Escuela Nueva 2° ",
+        "AUTOR": "J. Agusto Benavides y varios"
+    },
+    {
+        "TITULO": "Escuela Nueva 3°",
+        "AUTOR": "J. Agusto Benavides y varios"
+    },
+    {
+        "TITULO": "Escuela Nueva 5°",
+        "AUTOR": "J. Agusto Benavides y varios"
+    },
+    {
+        "TITULO": "Escuela sin Violencia 3° Sec",
+        "AUTOR": "Isabel Fernández"
+    },
+    {
+        "TITULO": "Eso no me lo quita nadie",
+        "AUTOR": "Ana María Machado"
+    },
+    {
+        "TITULO": "Español Estructural 4",
+        "AUTOR": "Georgina González Gutiérrez"
+    },
+    {
+        "TITULO": "Estrategias para triunfar",
+        "AUTOR": "Miguel Ángel Cornejo"
+    },
+    {
+        "TITULO": "Europa hombres y modelos de vida5",
+        "AUTOR": "Asuri\/ Santillana"
+    },
+    {
+        "TITULO": "Experimentos con luz y sonido 8",
+        "AUTOR": "E. A. Catherall y P.N. Holt"
+    },
+    {
+        "TITULO": "Exploración del Espacio",
+        "AUTOR": "Kenneth Gahand"
+    },
+    {
+        "TITULO": "Exploremos la Química",
+        "AUTOR": "Ruben Dario Torre Negra"
+    },
+    {
+        "TITULO": "Expresiones Artísticas 6 primaria",
+        "AUTOR": "Julio Hoyos Peña"
+    },
+    {
+        "TITULO": "Fabulas ",
+        "AUTOR": " Samaniego"
+    },
+    {
+        "TITULO": "Fabulas de Esopo ",
+        "AUTOR": "Everardo Zapata Santillana"
+    },
+    {
+        "TITULO": "Fabulas y leyendas americanas",
+        "AUTOR": " Ciro Alegría"
+    },
+    {
+        "TITULO": "Familia y Civismo 1° sec.",
+        "AUTOR": "Leila Castillo Abarco"
+    },
+    {
+        "TITULO": "Fausto",
+        "AUTOR": "Goethe"
+    },
+    {
+        "TITULO": "Federico Villareal Matemático e Ingen.",
+        "AUTOR": "Luis k. Watanabe"
+    },
+    {
+        "TITULO": "Ficciones",
+        "AUTOR": "Jorge Ivaza"
+    },
+    {
+        "TITULO": "Fiestas y Costumbre",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Figura y aspectos de la vida mundial ",
+        "AUTOR": "José Carlos Mariátegui"
+    },
+    {
+        "TITULO": "Filosofía y lógica 5° sec- ",
+        "AUTOR": "Juan Germán Prado"
+    },
+    {
+        "TITULO": "Física 2° sec",
+        "AUTOR": "Gustavo Estremadoyre r."
+    },
+    {
+        "TITULO": "Física 2° sec.",
+        "AUTOR": "Malztegui Sabato"
+    },
+    {
+        "TITULO": "Física 3° sec.",
+        "AUTOR": "Guillermo de la Cruz R."
+    },
+    {
+        "TITULO": "Física 4° sec.",
+        "AUTOR": "E. Moyano d. Sanchez"
+    },
+    {
+        "TITULO": "Física 5° sec.",
+        "AUTOR": "Carlos Emilio Vásquez Urday"
+    },
+    {
+        "TITULO": "Física 5° sec.",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Física 5° sec.",
+        "AUTOR": "José Chunga Yaya"
+    },
+    {
+        "TITULO": "Física 5° sec.",
+        "AUTOR": "Mario Zapana Brillante"
+    },
+    {
+        "TITULO": "Física Recreativa 6",
+        "AUTOR": "Muriel Mandel"
+    },
+    {
+        "TITULO": "Física y Química",
+        "AUTOR": "Cultural"
+    },
+    {
+        "TITULO": "Florentino el guardador de secreto.",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "Florentino el guardador de secretos",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Formación Filosófica 5°sec",
+        "AUTOR": "Vicasmar"
+    },
+    {
+        "TITULO": "Formación Religiosa 1° sec.",
+        "AUTOR": "Erita Ojeda- Morro Ramírez"
+    },
+    {
+        "TITULO": "Formación Religiosa 5° sec.",
+        "AUTOR": "Víctor B. Castro Marañon"
+    },
+    {
+        "TITULO": "Fortaleza Digital",
+        "AUTOR": "Dan Brown"
+    },
+    {
+        "TITULO": "Fortunato",
+        "AUTOR": "Luis Dario Bernal"
+    },
+    {
+        "TITULO": "Frankenstein",
+        "AUTOR": "Mary W. Shelley"
+    },
+    {
+        "TITULO": "Fuente Ovejuna",
+        "AUTOR": "Lope de Vega"
+    },
+    {
+        "TITULO": "Fuente Ovejuna ",
+        "AUTOR": "Lope de Vega"
+    },
+    {
+        "TITULO": "Fuente Ovejuna Per Ibáñez",
+        "AUTOR": "Lope de Vega"
+    },
+    {
+        "TITULO": "Fundación",
+        "AUTOR": "Isaac Asimow"
+    },
+    {
+        "TITULO": "Fundamentos de la Física",
+        "AUTOR": "Eugene Hecht"
+    },
+    {
+        "TITULO": "Gabriel",
+        "AUTOR": "Wilmer Seguro"
+    },
+    {
+        "TITULO": "Gabriel clavo y canela",
+        "AUTOR": "Joisy Armado"
+    },
+    {
+        "TITULO": "Genoveva de Bravante",
+        "AUTOR": "Cristobal Von Schmind"
+    },
+    {
+        "TITULO": "Geografía 5º sec.",
+        "AUTOR": "Daniel Sotelo"
+    },
+    {
+        "TITULO": "Geografía 2° sec.",
+        "AUTOR": "Juan Agusto Benavides Estrada"
+    },
+    {
+        "TITULO": "Geografía 3° sec.",
+        "AUTOR": "Juan Agusto Benavides Estrada"
+    },
+    {
+        "TITULO": "Geografía 5° sec.",
+        "AUTOR": "Serafín Cruz Sánchez"
+    },
+    {
+        "TITULO": "Geografía 1° sec ",
+        "AUTOR": "Juan Benavides Estrada - C. "
+    },
+    {
+        "TITULO": "Geografía 1° sec.",
+        "AUTOR": "Juan Agusto Benavides Estrada"
+    },
+    {
+        "TITULO": "Geografía (Geopolítica)",
+        "AUTOR": "Agusto Benavides Estrada, A"
+    },
+    {
+        "TITULO": "Geografía 3",
+        "AUTOR": "Daniel Sotelo"
+    },
+    {
+        "TITULO": "Geografía del Perú 1° sec.",
+        "AUTOR": "Julio Villanueva Sotomayor"
+    },
+    {
+        "TITULO": "Geografía del Perú 2° sec.",
+        "AUTOR": "Julio Villanueva Sotomayor"
+    },
+    {
+        "TITULO": "Geografía del Perú – Las ocho Regiones",
+        "AUTOR": "Javier Pulgar Vidal"
+    },
+    {
+        "TITULO": "Geografía del Perú 1° Primaria",
+        "AUTOR": "Efraín Orbegozo"
+    },
+    {
+        "TITULO": "Geografía del Perú y de la Región",
+        "AUTOR": "Luis Pinto Carbajal"
+    },
+    {
+        "TITULO": "Geografía del Perú y del Mundo 5° sec.",
+        "AUTOR": "Fernando Moralio Solari"
+    },
+    {
+        "TITULO": "Geografía del Perú y del Mundo 5° sec. ",
+        "AUTOR": "Julio R. Villanueva"
+    },
+    {
+        "TITULO": "Geografía del Perú y del mundo –Geopolítica",
+        "AUTOR": "Carmelo Tejada Rosas"
+    },
+    {
+        "TITULO": "Geografía e Historia Aula",
+        "AUTOR": "Cultural"
+    },
+    {
+        "TITULO": "Geografía General 3° sec.",
+        "AUTOR": "Julio Villanueva Sotomayor"
+    },
+    {
+        "TITULO": "Geografía Introducción a la Geopolítica 5º Sec",
+        "AUTOR": "Bertha Expedís - César Cortez - "
+    },
+    {
+        "TITULO": "Geografía Moquegua, Tacna y Puno",
+        "AUTOR": "Luis Pinto Carbajal"
+    },
+    {
+        "TITULO": "Geografía Nacional y Regional 2° sec.",
+        "AUTOR": "Luis Pinto Carbajal"
+    },
+    {
+        "TITULO": "Geografía Tacna Moquegua",
+        "AUTOR": "Luis Pinto Carbajal"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 10",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 11",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 12",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 14",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 20 ",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 21",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 22",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 6",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 7",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 82",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 84",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 87 ",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Geografía Universal Ilustrada 88",
+        "AUTOR": "Albert Noguer Rizzoli"
+    },
+    {
+        "TITULO": "Gestionando su Propia Empresa 1 y 2",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Ghilherme, el koala que llego al Perú",
+        "AUTOR": "  Eduardo Chirinos"
+    },
+    {
+        "TITULO": "Ghilherme, el koala que se convirtió en peluche",
+        "AUTOR": " Eduardo Chirinos"
+    },
+    {
+        "TITULO": "Gramática y Lenguaje ",
+        "AUTOR": "Consultor Comik"
+    },
+    {
+        "TITULO": "Gran Álbum Ilo",
+        "AUTOR": "Folleto"
+    },
+    {
+        "TITULO": "Gran Atlas Universal y del Perú",
+        "AUTOR": "Navarrete"
+    },
+    {
+        "TITULO": "Grna Seron Veredes",
+        "AUTOR": "Juan Carlos Oretti"
+    },
+    {
+        "TITULO": "Guardian Sobre el Centeno",
+        "AUTOR": "J.D.Salinger"
+    },
+    {
+        "TITULO": "Guerra en casa",
+        "AUTOR": "Anne Fine"
+    },
+    {
+        "TITULO": "Guillermo y el miedo",
+        "AUTOR": "Christine Nostlinger"
+    },
+    {
+        "TITULO": "Había una vez…1",
+        "AUTOR": "Editorial Bruño"
+    },
+    {
+        "TITULO": "Habla 4 + cuaderno de trabajo",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Habla 6",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Hamlet",
+        "AUTOR": "William Shakespeare"
+    },
+    {
+        "TITULO": "Hamlet el mercader de Venecia",
+        "AUTOR": "William Shakespeare"
+    },
+    {
+        "TITULO": "Harry Potter y el cáliz de fuego ",
+        "AUTOR": "J.K. Rowling"
+    },
+    {
+        "TITULO": "Harry Potter y la piedra Filosofal",
+        "AUTOR": "J. K. Rowling"
+    },
+    {
+        "TITULO": "Hay espacio para todos",
+        "AUTOR": "Diana Cornejo"
+    },
+    {
+        "TITULO": "Hay palabras que los peces no entienden",
+        "AUTOR": " María Fernanda H."
+    },
+    {
+        "TITULO": "Heidi",
+        "AUTOR": "Wendy Wasserstein"
+    },
+    {
+        "TITULO": "Historia Cronológica del Perú",
+        "AUTOR": "Jose A. del Busto D."
+    },
+    {
+        "TITULO": "Historia de Giliar y Camplio",
+        "AUTOR": "Edgardo Rivera Martínez"
+    },
+    {
+        "TITULO": "Historia de la Literatura Hispanoamericana- V\/4",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Historia de Latinoamérica desde los Niños",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Historia de Monja Alférez",
+        "AUTOR": "Catalina de Erauso"
+    },
+    {
+        "TITULO": "Historia del Mundo Contemporáneo",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Historia del Perú",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Historia del Perú Contemporáneo",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Historia del Perú en el Proceso América Mundial",
+        "AUTOR": "Luis Pinto Carbajal"
+    },
+    {
+        "TITULO": "Historia General de los Peruanos 1",
+        "AUTOR": "Federico Kaffman Doig"
+    },
+    {
+        "TITULO": "Historia General de los Peruanos 2",
+        "AUTOR": "Raúl Porras Barranechea- Ruben Vargas "
+    },
+    {
+        "TITULO": "Historia General de los Peruanos 3",
+        "AUTOR": "Daniel Valcoral – C.R Markham – Enrique D"
+    },
+    {
+        "TITULO": "Historia Grafica del Arte Pictórico ",
+        "AUTOR": "Ediciones Peisa"
+    },
+    {
+        "TITULO": "Historia Latinoamérica desde los niños",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Historia sobre un corazón roto",
+        "AUTOR": "M. B. Brozon"
+    },
+    {
+        "TITULO": "Historia Universal + CD",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Historia y Geog. del Perú y del Mundo 1°sec. ",
+        "AUTOR": "Francisco R. Vienas Machado"
+    },
+    {
+        "TITULO": "Historia y Geografía 1° sec.",
+        "AUTOR": "Luis Pinto Carbajal"
+    },
+    {
+        "TITULO": "Hola Andrés soy María otra vez",
+        "AUTOR": " Fernanda Heredia"
+    },
+    {
+        "TITULO": "Hombrecitos",
+        "AUTOR": "Louisa M. Alcont"
+    },
+    {
+        "TITULO": "Hombrecitos",
+        "AUTOR": "Toribio Anyarin Injante"
+    },
+    {
+        "TITULO": "Horas de Lucha",
+        "AUTOR": "Manuel Gonzales P."
+    },
+    {
+        "TITULO": "Horizonte la historia del caballero de los mares",
+        "AUTOR": "Hernando Carpio M."
+    },
+    {
+        "TITULO": "Humanidades Aula",
+        "AUTOR": "Cultural"
+    },
+    {
+        "TITULO": "Humillados y ofendidos",
+        "AUTOR": "Flodor M.Dostoyevski"
+    },
+    {
+        "TITULO": "Igual que la Extensión de tu Cuerpo ",
+        "AUTOR": "Leoncio Luque CCota"
+    },
+    {
+        "TITULO": "Iniciación a la Cerámica 1 ",
+        "AUTOR": "Harold Powel"
+    },
+    {
+        "TITULO": "Introducción a la Filosofía y lógica 5 sec.",
+        "AUTOR": "Agusto Salazar Bondi-Francisco"
+    },
+    {
+        "TITULO": "Intruso en el paraíso",
+        "AUTOR": "Feliciano Paredes Adrianzen"
+    },
+    {
+        "TITULO": "Inventando a Eliot",
+        "AUTOR": "Graham Gardner"
+    },
+    {
+        "TITULO": "Investigación de Mercado",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "J J Sánchez el cocodrilo que llora de noche",
+        "AUTOR": "M.B. Brazon"
+    },
+    {
+        "TITULO": "J.R. Ribeyro y sus dobles",
+        "AUTOR": "Walfang a luchting"
+    },
+    {
+        "TITULO": "James y el melocotón gigante",
+        "AUTOR": "Roald Dahl"
+    },
+    {
+        "TITULO": "Joaquín espadachín",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "José A. Quiñonez",
+        "AUTOR": "Eduardo Dargent Chamot"
+    },
+    {
+        "TITULO": "Juan Chichones superhéroe a golpes",
+        "AUTOR": " Gustavo Rodríguez"
+    },
+    {
+        "TITULO": "Juega y Construye 2",
+        "AUTOR": "Manuel Sainz - Pardo"
+    },
+    {
+        "TITULO": "Juego de lam..fichas, recetarios animación lect.",
+        "AUTOR": "Ministerrio de Ed."
+    },
+    {
+        "TITULO": "Juegos Lógico Matemático 5",
+        "AUTOR": "Hugo Vera Duarte"
+    },
+    {
+        "TITULO": "Junta de Cadáveres Astiller",
+        "AUTOR": "Joao Guimaraes Rosa"
+    },
+    {
+        "TITULO": "Kapeshi",
+        "AUTOR": " Manuel Barquero"
+    },
+    {
+        "TITULO": "Kawsay 5",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Konrad",
+        "AUTOR": "Christne Nostlinguer"
+    },
+    {
+        "TITULO": "La abuela",
+        "AUTOR": " Peter Hatlig"
+    },
+    {
+        "TITULO": "La aldea encantada",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "La alforja del Jorobado",
+        "AUTOR": "Rosa Cerna Guardia"
+    },
+    {
+        "TITULO": "La amistad bate la cola",
+        "AUTOR": " Marina Colasanti"
+    },
+    {
+        "TITULO": "La Aventura de leer",
+        "AUTOR": "Danilo Sánchez Lion"
+    },
+    {
+        "TITULO": "La ballena varada",
+        "AUTOR": "Oscar Collazos"
+    },
+    {
+        "TITULO": "La Bella Y Los Duendes",
+        "AUTOR": "Toribio Anyarin Injante"
+    },
+    {
+        "TITULO": "La Biblia",
+        "AUTOR": "Edición Pastoral"
+    },
+    {
+        "TITULO": "La Biblia de la Física y Química",
+        "AUTOR": "Antonio Brackegg"
+    },
+    {
+        "TITULO": "La biblia del niño",
+        "AUTOR": "Editorial Verbo Divino"
+    },
+    {
+        "TITULO": "La Biblia. de Estudio",
+        "AUTOR": "Sociedades Bíblicas Unidas "
+    },
+    {
+        "TITULO": "La bolita Azul",
+        "AUTOR": "Griselda Gambara"
+    },
+    {
+        "TITULO": "La botánica en experimentos 9",
+        "AUTOR": "J. A. Arroyo"
+    },
+    {
+        "TITULO": "La cabaña del Tío Tom",
+        "AUTOR": "Harriet Beecher Stower"
+    },
+    {
+        "TITULO": "La capa de Ozono",
+        "AUTOR": "M. Bright"
+    },
+    {
+        "TITULO": "La casa de Bernarda Alba",
+        "AUTOR": "Federico García Lorca"
+    },
+    {
+        "TITULO": "La casa de cartón",
+        "AUTOR": "Martín Adán"
+    },
+    {
+        "TITULO": "La casa de Cartón",
+        "AUTOR": "Martín Adán"
+    },
+    {
+        "TITULO": "La Casa de Cartón",
+        "AUTOR": "Adán Martin"
+    },
+    {
+        "TITULO": "La casa empezó en Galilea",
+        "AUTOR": "Lous Evely"
+    },
+    {
+        "TITULO": "La casa verde",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "La casita de chocolate",
+        "AUTOR": "Jacobo y Guillermo G."
+    },
+    {
+        "TITULO": "La casita de chocolate",
+        "AUTOR": "Jacobo y Guillermo Grimm"
+    },
+    {
+        "TITULO": "La Celestina",
+        "AUTOR": "Fernando Rojas"
+    },
+    {
+        "TITULO": "La Celestina Tomo 1",
+        "AUTOR": "Fernando de Rojas"
+    },
+    {
+        "TITULO": "La Celestina Tomo 2",
+        "AUTOR": "Fernando de Rojas"
+    },
+    {
+        "TITULO": "La Ciudad de los Perros",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "La Cocina de la Escritura",
+        "AUTOR": "Daniel Cassany"
+    },
+    {
+        "TITULO": "La Colina Interior",
+        "AUTOR": "Antonio Sarmiento"
+    },
+    {
+        "TITULO": "La Comedia Inmóvil",
+        "AUTOR": "Cristian A. Briceño A."
+    },
+    {
+        "TITULO": "La Comuna de Piura y Chalaco",
+        "AUTOR": "Miguel Marticorena E."
+    },
+    {
+        "TITULO": "La comunidad económica europea 6",
+        "AUTOR": "Asuri\/ Santillana"
+    },
+    {
+        "TITULO": "La crisis del hombre y de la mujer ",
+        "AUTOR": "Antonio Mutto"
+    },
+    {
+        "TITULO": "La Crónica del Perú",
+        "AUTOR": "Pedro Cieza León"
+    },
+    {
+        "TITULO": "La Divina Comedia",
+        "AUTOR": "Dante Alighien"
+    },
+    {
+        "TITULO": "La doncella que quería conocer el mar",
+        "AUTOR": "Oscar Colchado"
+    },
+    {
+        "TITULO": "La embestida del carnero y otros cuentos",
+        "AUTOR": "Teodoro Garcés"
+    },
+    {
+        "TITULO": "La feria de Quilez",
+        "AUTOR": "Gustavo Rodríguez"
+    },
+    {
+        "TITULO": "La fiesta del chivo",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "La Flecha Nesra",
+        "AUTOR": "Robert Lous Stevenson"
+    },
+    {
+        "TITULO": "La fuga de san Pedro",
+        "AUTOR": "Gabriel Niezell Matos"
+    },
+    {
+        "TITULO": "La gaviota",
+        "AUTOR": "José Díaz Canseco"
+    },
+    {
+        "TITULO": "La Gitanilla",
+        "AUTOR": "Miguel de Cervantes Saavedra"
+    },
+    {
+        "TITULO": "La gran Gilly Hopkins",
+        "AUTOR": "Katherine Paterson"
+    },
+    {
+        "TITULO": "La Gran Ruta Inca (Ed.Bilingue)",
+        "AUTOR": "The Great Inca "
+    },
+    {
+        "TITULO": "La granja de Don Hilario",
+        "AUTOR": "José Luis Mejía"
+    },
+    {
+        "TITULO": "La Guerra del Fin del Mundo",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "La Historia de las cosas",
+        "AUTOR": "Annie Leonard"
+    },
+    {
+        "TITULO": "La horca del pirata",
+        "AUTOR": " Jorge Eslava"
+    },
+    {
+        "TITULO": "La Ilíada",
+        "AUTOR": "Homero"
+    },
+    {
+        "TITULO": "La isla del tesoro",
+        "AUTOR": "Roberto L. Steven"
+    },
+    {
+        "TITULO": "La jaula de los gorilas",
+        "AUTOR": " Rodríguez Muñoz"
+    },
+    {
+        "TITULO": "La Jirafa, el pelicano y el mono",
+        "AUTOR": " Rodad Dahl"
+    },
+    {
+        "TITULO": "La ladrona de libros",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "La lechuza del valle y otros cuentos",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "La Leyenda del Cid",
+        "AUTOR": "Clásicos Adaptados"
+    },
+    {
+        "TITULO": "La Llamada de lo Salvaje",
+        "AUTOR": "Jack London"
+    },
+    {
+        "TITULO": "La lluvia pregonera",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "La loca de las bolsas",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "La luna brillante panchita paloma pajarafiesta",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "La Madre",
+        "AUTOR": "Máximo Gorki"
+    },
+    {
+        "TITULO": "La mala nota. El colegio en el cuento peruano",
+        "AUTOR": "Varios autores"
+    },
+    {
+        "TITULO": "La Mena y Ansilla",
+        "AUTOR": " Hernan Garrido lecca"
+    },
+    {
+        "TITULO": "La mestiza de Pizarro",
+        "AUTOR": "Álvaro Vargas Llosa"
+    },
+    {
+        "TITULO": "La Metamorfosis",
+        "AUTOR": "Franz Kafka"
+    },
+    {
+        "TITULO": "La montaña del alma",
+        "AUTOR": "Gao Xinsjan"
+    },
+    {
+        "TITULO": "La niña de la sombra de colores",
+        "AUTOR": " Jorge Eslava"
+    },
+    {
+        "TITULO": "La niña del Jacaranda",
+        "AUTOR": " Hediberto Tejo"
+    },
+    {
+        "TITULO": "La Noche Humana",
+        "AUTOR": "Carlos Calderón F."
+    },
+    {
+        "TITULO": "La Nueva Era del Sueño",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "La Odisea",
+        "AUTOR": "Homero"
+    },
+    {
+        "TITULO": "La Odisea",
+        "AUTOR": "Homero"
+    },
+    {
+        "TITULO": "La palabra del mudo",
+        "AUTOR": "Julio Ramón Ribeyro"
+    },
+    {
+        "TITULO": "La población mundial y sus problemas",
+        "AUTOR": "Asuri\/ Santillana"
+    },
+    {
+        "TITULO": "La sirenita",
+        "AUTOR": "Edit. Brako"
+    },
+    {
+        "TITULO": "La Tía Julia y el escribidor",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "La tía Tula",
+        "AUTOR": "Miguel de Unamuno"
+    },
+    {
+        "TITULO": "La Tierra de Oro Ardiente",
+        "AUTOR": "Ronimundo H. Von B."
+    },
+    {
+        "TITULO": "La Tierra, realidad física 2",
+        "AUTOR": "Asuri\/ Santillana"
+    },
+    {
+        "TITULO": "La tiranía del Inca IV Bienal de Ensayo Premio Cope 2014",
+        "AUTOR": "Richard Parra"
+    },
+    {
+        "TITULO": "La última batalla Narnia",
+        "AUTOR": "C.S. Lewis"
+    },
+    {
+        "TITULO": "La última oportunidad ",
+        "AUTOR": "Carlos Cuauhtémoc"
+    },
+    {
+        "TITULO": "La vaca",
+        "AUTOR": "Fernando Grados "
+    },
+    {
+        "TITULO": "La venganza de la vaca",
+        "AUTOR": "Sergio Aguirre"
+    },
+    {
+        "TITULO": "La Veragine",
+        "AUTOR": "José Gustavo Rivera"
+    },
+    {
+        "TITULO": "La vicuña de ocho patas",
+        "AUTOR": " Hernán Garrido"
+    },
+    {
+        "TITULO": "La vida del Buscón",
+        "AUTOR": "Francisco de Quevedo"
+    },
+    {
+        "TITULO": "La vida es un sueño",
+        "AUTOR": "Pedro Calderón de la Barca"
+    },
+    {
+        "TITULO": "La vida es un sueño",
+        "AUTOR": "Calderón Barca"
+    },
+    {
+        "TITULO": "La voz de las cigarras",
+        "AUTOR": " Patricia Truffello"
+    },
+    {
+        "TITULO": "La vuelta al mundo en 80 días",
+        "AUTOR": "Julio Verne"
+    },
+    {
+        "TITULO": "La Vuelta al Mundo en Ochenta Días",
+        "AUTOR": "Julio Verme"
+    },
+    {
+        "TITULO": "Lagrima de Verdugo",
+        "AUTOR": "Rafael R. de Macuás"
+    },
+    {
+        "TITULO": "Lala - En la ciudad de las pirámides",
+        "AUTOR": " Juan Luis Dammert"
+    },
+    {
+        "TITULO": "Lala en la ciudad de las pirámides",
+        "AUTOR": "Juan Luis Pamnet"
+    },
+    {
+        "TITULO": "Las aventuras de Pulgarcilla",
+        "AUTOR": "Las aventuras de Pulgarcilla"
+    },
+    {
+        "TITULO": "Las Aventuras de Tom Sawyer",
+        "AUTOR": "Mark Twain"
+    },
+    {
+        "TITULO": "Las chicas de alambre",
+        "AUTOR": "Jordi Sierra y Fabra"
+    },
+    {
+        "TITULO": "Las chicas de alambre",
+        "AUTOR": " Jordi Sierra I Fabra"
+    },
+    {
+        "TITULO": "Las disparatadas aventuras de ukridge",
+        "AUTOR": "Wodehouse"
+    },
+    {
+        "TITULO": "Las Hijas del Terror",
+        "AUTOR": "Rocio Silva Santisteb"
+    },
+    {
+        "TITULO": "Las lanzas Coloradas",
+        "AUTOR": "Arturo Uslar Pretri"
+    },
+    {
+        "TITULO": "Las Lenguas del Peru",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Las mil y una noches",
+        "AUTOR": "Anónimo"
+    },
+    {
+        "TITULO": "Las minas del Rey Salomón",
+        "AUTOR": "H. Ridder Haggard"
+    },
+    {
+        "TITULO": "Las siete leyes espirituales del Ex",
+        "AUTOR": "Deerak Chopra"
+    },
+    {
+        "TITULO": "Lazarillo de Tormes",
+        "AUTOR": "Anónimo"
+    },
+    {
+        "TITULO": "Lazarillo de Tormes 2",
+        "AUTOR": "Eugenio Alonso Martín"
+    },
+    {
+        "TITULO": "Lectura de los Sueños encantados",
+        "AUTOR": "Silvana Alva Seña"
+    },
+    {
+        "TITULO": "Lecturas Amigas 1",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lecturas Amigas 4",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lecturas Amigas 5",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lecturas Amigas 6",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lecturas Breves 4 ejercicios de lenguaje",
+        "AUTOR": "Irma Camarco De Ambia"
+    },
+    {
+        "TITULO": "Lecturas Siglo XXI",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Leer y escribir un paso adelante",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lejos de Frin",
+        "AUTOR": "Luis María Pescelli"
+    },
+    {
+        "TITULO": "Lengua y Comunicación 8° 9° 10° 11° ",
+        "AUTOR": "Gonzales Mejía R."
+    },
+    {
+        "TITULO": "Lenguaje 1° sec.",
+        "AUTOR": "Raúl Gonzales Castillo"
+    },
+    {
+        "TITULO": "Lenguaje 2° sec.",
+        "AUTOR": "Humberto Santillán Arista"
+    },
+    {
+        "TITULO": "Lenguaje 2° sec.",
+        "AUTOR": "De la Vega Rondón"
+    },
+    {
+        "TITULO": "Lenguaje 2° sec.",
+        "AUTOR": "Raúl Gonzales Castillo"
+    },
+    {
+        "TITULO": "Lenguaje Comunicación Letras Com. 3°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lenguaje- Com. - Lingüística Literaria 4° ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lenguaje Literatura Patio de Letras 1°",
+        "AUTOR": "Manuel Valdivia"
+    },
+    {
+        "TITULO": "Lenguaje y Com. Letras. Com. 1° 2° ",
+        "AUTOR": "Santillana "
+    },
+    {
+        "TITULO": "Lenguaje y Comunicación 4° sec.",
+        "AUTOR": "Sofia Yordan Morales"
+    },
+    {
+        "TITULO": "Lenguaje – Com. - Lingüística Literaria 3° ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lenguaje 2 ",
+        "AUTOR": "Editorial Bruño"
+    },
+    {
+        "TITULO": "Lenguaje 4",
+        "AUTOR": "Editorial Bruño"
+    },
+    {
+        "TITULO": "Lenguaje Literatura Patio de Letras 2°",
+        "AUTOR": "Manuel Valdivia"
+    },
+    {
+        "TITULO": "Lenguaje y literatura Contexto 1° 2° 3°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lenguaje y Comunicación 3°",
+        "AUTOR": "Vitral"
+    },
+    {
+        "TITULO": "Lenguaje y Literatura 3° sec.",
+        "AUTOR": "Felix Huamán"
+    },
+    {
+        "TITULO": "Lenguaje y Literatura 1° sec.",
+        "AUTOR": "Martin Quintana"
+    },
+    {
+        "TITULO": "Lenguaje y Literatura 3° sec.",
+        "AUTOR": "Salomón Prado Salazar"
+    },
+    {
+        "TITULO": "Lenguaje y Literatura 4° sec",
+        "AUTOR": "Juan German Prado"
+    },
+    {
+        "TITULO": "Lenguaje y Literatura 2° sec.",
+        "AUTOR": "Manuel Torres Vives"
+    },
+    {
+        "TITULO": "Lenguaje y Literatura Contexto 5°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lenguaje y Com. Letras. Com. 5°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lenguaje y Comunicación 1°",
+        "AUTOR": "Vitral"
+    },
+    {
+        "TITULO": "Lenguaje y Comunicación 4°",
+        "AUTOR": "Santos f. Ludeña S."
+    },
+    {
+        "TITULO": "Lenguaje y Comunicación 2° sec.",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lenguaje y Comunicación 3° sec.",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lenguaje y Comunicación 4° sec.",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lenguaje y Comunicación 1° sec.",
+        "AUTOR": "Sofia Yordan Morales"
+    },
+    {
+        "TITULO": "Lenguaje y Comunicación 2° sec.",
+        "AUTOR": "Sofia Yordan Morales"
+    },
+    {
+        "TITULO": "Lenguaje y Comunicación 4° sec.",
+        "AUTOR": "J. Rosas Valdivia"
+    },
+    {
+        "TITULO": "Lenguaje y Comunicación 5° sec.",
+        "AUTOR": "J. Rosas Valdivia"
+    },
+    {
+        "TITULO": "Lenguaje y Literatura 2° sec.",
+        "AUTOR": "J. Rosas Valdivia"
+    },
+    {
+        "TITULO": "Lenguaje y Literatura 5° sec.",
+        "AUTOR": "Juan German Prado"
+    },
+    {
+        "TITULO": "Lenguaje y Literatura 1° sec.",
+        "AUTOR": "De la Vega Rondón"
+    },
+    {
+        "TITULO": "Lenguajes Siglo XXI 5",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lenguajes siglo XXI 6",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Léxico de la Política",
+        "AUTOR": "Laura Vaca Alonmendi (varios)"
+    },
+    {
+        "TITULO": "Leyendas Peruanas para niños ",
+        "AUTOR": "María a Rostworowski"
+    },
+    {
+        "TITULO": "Libro aventuras de capitán Fush y pequeño minino",
+        "AUTOR": " José María Bedoya"
+    },
+    {
+        "TITULO": "Libro Basic Grammar In Use",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Libro Ciencia",
+        "AUTOR": "Sergio Sánchez Ortiz"
+    },
+    {
+        "TITULO": "Libro de Consulta Bruño",
+        "AUTOR": "Bruño"
+    },
+    {
+        "TITULO": "Libro de Ed. La Mirada",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Libro de Física",
+        "AUTOR": "Oscar Diaz Alva"
+    },
+    {
+        "TITULO": "Libro de lectura amigo 1",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Libro de lectura Leones del Sur 5",
+        "AUTOR": "Dr. Asís Orlando Vela Flores-"
+    },
+    {
+        "TITULO": "Libro de lectura Leones del Sur 6",
+        "AUTOR": "Dr. Asís Orlando Vela Flores- Victoria Bellido de Vega"
+    },
+    {
+        "TITULO": "Libro de mal Amor",
+        "AUTOR": "Fernando Iwasaki"
+    },
+    {
+        "TITULO": "Libro de Oro 1979-2008 obras Ganadoras",
+        "AUTOR": "Ricardo Gonzales V."
+    },
+    {
+        "TITULO": "Libro del Cielo y la Tierra",
+        "AUTOR": "Centro de Estudios y Asesoría"
+    },
+    {
+        "TITULO": "Libro el Racismo en el Perú",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Libro Ollantay",
+        "AUTOR": "Anónimo"
+    },
+    {
+        "TITULO": "Libro para Conocer la Const. ",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Libro. para evaluar en Ed. Física",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Lima la horrible",
+        "AUTOR": "Sebastián Salazar"
+    },
+    {
+        "TITULO": "Limpieza de sangre",
+        "AUTOR": "Arturo Pérez Reverte"
+    },
+    {
+        "TITULO": "Literatura 4° sec.",
+        "AUTOR": "Antonio Samaniego"
+    },
+    {
+        "TITULO": "Literatura Dinámica 3° sec",
+        "AUTOR": "Rene Pacheco Melgar"
+    },
+    {
+        "TITULO": "Literatura Dinámica 4° sec.",
+        "AUTOR": "Rene Pacheco Melgar"
+    },
+    {
+        "TITULO": "Literatura Hispano Americano",
+        "AUTOR": "Augusto Tamayo Vargas"
+    },
+    {
+        "TITULO": "Literatura y Lenguaje 2° sec.",
+        "AUTOR": "Jorge Ventura vera"
+    },
+    {
+        "TITULO": "Llamados a la comunidad 2° sec",
+        "AUTOR": "César Blondet S."
+    },
+    {
+        "TITULO": "Llamados a la conversión 3° sec.",
+        "AUTOR": "César Bla0ndet"
+    },
+    {
+        "TITULO": "Llamados a la vida del señor 1° sec.",
+        "AUTOR": "César Blondet S."
+    },
+    {
+        "TITULO": "Llanto sagrado de la América Meridional",
+        "AUTOR": "Francisco Romero"
+    },
+    {
+        "TITULO": "Lógica",
+        "AUTOR": "Hugo García Salvatierra"
+    },
+    {
+        "TITULO": "Lógico Matemático – Desafíos 4",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Lógico Matemático 1",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Lógico Matemático 1",
+        "AUTOR": "Lilia Bertha Samaniego – H."
+    },
+    {
+        "TITULO": "Lógico Matemático 1",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Lógico Matemático 2",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Lógico Matemático 3",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Lógico Matemático 5",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Lógico Matemático 6",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Lógico Matemático Sigma 4",
+        "AUTOR": "Enrique Matto Muzante"
+    },
+    {
+        "TITULO": "Lógico Matemático Sigma3",
+        "AUTOR": "Enrique Matto -Muzante"
+    },
+    {
+        "TITULO": "Lógico Matemático6",
+        "AUTOR": "Montebianco"
+    },
+    {
+        "TITULO": "Lorenzo y el secreto del Arenal",
+        "AUTOR": " Flor Sánchez Zúñiga"
+    },
+    {
+        "TITULO": "Los 6 amigos",
+        "AUTOR": " Beatriz Canny de B."
+    },
+    {
+        "TITULO": "Los 6 amigos van al Colca",
+        "AUTOR": " Beatriz Canny de B."
+    },
+    {
+        "TITULO": "Los 6 amigos van al Cusco y conocen Machu Picchu",
+        "AUTOR": " Beatriz Canny de B."
+    },
+    {
+        "TITULO": "Los 7 Hábitos de los Adolescentes Efectivos",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Los cachorros \/ los jefes",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "Los cascabeles mágicos",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "Los cretinos ",
+        "AUTOR": "Roald Dahl"
+    },
+    {
+        "TITULO": "Los cuadernos de Rigoberto",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "Los de Abajo",
+        "AUTOR": "Mariana Azuela"
+    },
+    {
+        "TITULO": "Los de Abajo ",
+        "AUTOR": "Azuela"
+    },
+    {
+        "TITULO": "Los devoradores",
+        "AUTOR": " Ana María Shua"
+    },
+    {
+        "TITULO": "Los días de carbón",
+        "AUTOR": "Rosa Cerna Guardia"
+    },
+    {
+        "TITULO": "Los dientes del Dragon",
+        "AUTOR": "Hubert Lanssiers"
+    },
+    {
+        "TITULO": "Los extrañamientos",
+        "AUTOR": " Los Extrañamientos"
+    },
+    {
+        "TITULO": "Los heraldos Negros",
+        "AUTOR": "Cesar Vallejo"
+    },
+    {
+        "TITULO": "Los hermanos de Karamasov",
+        "AUTOR": "Fedor Dostoyevski"
+    },
+    {
+        "TITULO": "Los hijos del bosque",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Los hijos del capitán Grant",
+        "AUTOR": "Julio Verne"
+    },
+    {
+        "TITULO": "Los hijos del lino verde",
+        "AUTOR": "Octavio Paz"
+    },
+    {
+        "TITULO": "Los hombres son Marte las mujeres venus",
+        "AUTOR": "Jhon Gray"
+    },
+    {
+        "TITULO": "Los incas",
+        "AUTOR": "Inca Garcilaso de la Vega"
+    },
+    {
+        "TITULO": "Los inocentes",
+        "AUTOR": "Oswaldo Rynose"
+    },
+    {
+        "TITULO": "Los Inocentes",
+        "AUTOR": "Oswaldo Reynoso"
+    },
+    {
+        "TITULO": "Los jefes \/ los Cachorros",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "Los jefes \/ Los Cachorros",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "Los magos del silencio}",
+        "AUTOR": " Hernán Garrido- Leca"
+    },
+    {
+        "TITULO": "Los mejores relatos de Roald Dahl, Antología",
+        "AUTOR": "Roald Dahl"
+    },
+    {
+        "TITULO": "Los mejores relatos del terror llevados al cine",
+        "AUTOR": " Varios"
+    },
+    {
+        "TITULO": "Los miserables",
+        "AUTOR": "Victor Hugo"
+    },
+    {
+        "TITULO": "Los niños más encantadores del M",
+        "AUTOR": "Gina Ruck Pauquet"
+    },
+    {
+        "TITULO": "Los niños voladores ",
+        "AUTOR": "Navarrete"
+    },
+    {
+        "TITULO": "Los pelosos cuentos policiacos",
+        "AUTOR": "Enrique Pérez Pícos"
+    },
+    {
+        "TITULO": "Los Perros Hambrientos",
+        "AUTOR": "Mario Vargas Llosa"
+    },
+    {
+        "TITULO": "Los perros hambrientos ",
+        "AUTOR": "Ciro Alegría"
+    },
+    {
+        "TITULO": "Los recursos mundiales 4",
+        "AUTOR": "Asuri\/ Santillana"
+    },
+    {
+        "TITULO": "Los Ríos Profundos",
+        "AUTOR": "José María Arguedas"
+    },
+    {
+        "TITULO": "Los siete locos – lanza llamas",
+        "AUTOR": "Robert Arit"
+    },
+    {
+        "TITULO": "Luna Nueva",
+        "AUTOR": "Stephenie ;Meyer"
+    },
+    {
+        "TITULO": "Machu Picchu",
+        "AUTOR": "Luis Valcárcel"
+    },
+    {
+        "TITULO": "Madame Bovary ",
+        "AUTOR": "Gustave Flaubert"
+    },
+    {
+        "TITULO": "Maestro y otros cuentos",
+        "AUTOR": " Anna Lavattelli"
+    },
+    {
+        "TITULO": "Malditas Matemáticas",
+        "AUTOR": "Carlo Fabretty"
+    },
+    {
+        "TITULO": "Manantiales del desierto",
+        "AUTOR": "Ladislao Plasencki"
+    },
+    {
+        "TITULO": "Manual y Redacción Superior",
+        "AUTOR": "Miguel Figueroa"
+    },
+    {
+        "TITULO": "Manual de Ed. Física y Deporte",
+        "AUTOR": "MINISTERIO DE ED,"
+    },
+    {
+        "TITULO": "Manual de Educación Física Actualizada",
+        "AUTOR": "Helber Villalobos Gutiérrez"
+    },
+    {
+        "TITULO": "Manual de Educación Física para Sec.",
+        "AUTOR": "Helber Villalobos Gutiérrez"
+    },
+    {
+        "TITULO": "Manualidades Femeninas 3",
+        "AUTOR": "Ana María Rubio"
+    },
+    {
+        "TITULO": "Maranga",
+        "AUTOR": "Luis G. Lumbreras S."
+    },
+    {
+        "TITULO": "Margaret y el “gigoló”",
+        "AUTOR": "Simenon"
+    },
+    {
+        "TITULO": "María",
+        "AUTOR": "Jorge Isaac"
+    },
+    {
+        "TITULO": "María",
+        "AUTOR": "Toribio Anyarin Injante"
+    },
+    {
+        "TITULO": "María Grié",
+        "AUTOR": "Elvis Karlsson"
+    },
+    {
+        "TITULO": "Marianela",
+        "AUTOR": "Benito Pérez Galdós"
+    },
+    {
+        "TITULO": "Marianela",
+        "AUTOR": "Benito Pérez Galdós"
+    },
+    {
+        "TITULO": "Marketing para Micro y Pymes",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Más allá de los ángeles y demon.",
+        "AUTOR": "Reneé Chandelle"
+    },
+    {
+        "TITULO": "Matalache",
+        "AUTOR": "Enrique López Albújar"
+    },
+    {
+        "TITULO": "Matemática 1",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Matemática 1",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Matemática 2",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Matemática 3",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Matemática 3",
+        "AUTOR": "Antonieta de Ferro \/Urlich Ulmer"
+    },
+    {
+        "TITULO": "Matemática 5 escuela nueva",
+        "AUTOR": "Angel Marin del Aguila"
+    },
+    {
+        "TITULO": "Matemática 6",
+        "AUTOR": "Virgilio Gutiérrez"
+    },
+    {
+        "TITULO": "Matemática Alfa 1",
+        "AUTOR": "Aragón Arellano Ayala"
+    },
+    {
+        "TITULO": "Matemática Educación Inicial ",
+        "AUTOR": "Máximo de la Cruz Solórzano"
+    },
+    {
+        "TITULO": "Matemática Elemento 1",
+        "AUTOR": "Máximo de la Cruz Solórzano"
+    },
+    {
+        "TITULO": "Matemática fácil 4",
+        "AUTOR": "Alexander Quichiz Romero"
+    },
+    {
+        "TITULO": "Matemática para todos 5 y solucionario",
+        "AUTOR": "Instituto de Apoyo"
+    },
+    {
+        "TITULO": "Matemática para todos 6 y solucionario",
+        "AUTOR": "Instituto de Apoyo"
+    },
+    {
+        "TITULO": "Matemática Rango 2",
+        "AUTOR": "Gustavo Rojas Gasco"
+    },
+    {
+        "TITULO": "Matemática Sigma 1",
+        "AUTOR": "Enrique Matto Muzante"
+    },
+    {
+        "TITULO": "Matemática Sigma 2",
+        "AUTOR": "Enrique Matto Muzante"
+    },
+    {
+        "TITULO": "Matemática Sigma 3",
+        "AUTOR": "Enrique Matto Muzante – Virginia Monje C."
+    },
+    {
+        "TITULO": "Matemática Sigma 4",
+        "AUTOR": "Enrique Matto Muzante"
+    },
+    {
+        "TITULO": "Matemática Sigma 5",
+        "AUTOR": "Enrique Matto Muzante"
+    },
+    {
+        "TITULO": "Matemáticas Aula",
+        "AUTOR": "Cultural"
+    },
+    {
+        "TITULO": "Matemático siglo XXI",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Mateo y la historia de los niños desamparados",
+        "AUTOR": " Micky Bolaños"
+    },
+    {
+        "TITULO": "Mateo y la historia del bebe gigante",
+        "AUTOR": " Micky Bolaños"
+    },
+    {
+        "TITULO": "Matilda",
+        "AUTOR": "Roald Dahl"
+    },
+    {
+        "TITULO": "Maus La Hist.del Sobre Viviente Vol-I",
+        "AUTOR": "Art Spiegelman"
+    },
+    {
+        "TITULO": "Me gusta leer Trabalenguas y Adiv.",
+        "AUTOR": "Lily C. de cueto Virginia T."
+    },
+    {
+        "TITULO": "Media Electra",
+        "AUTOR": "Eurípides"
+    },
+    {
+        "TITULO": "Medio Ambiente 3°",
+        "AUTOR": "Miguel T.Levano Barrera"
+    },
+    {
+        "TITULO": "Memoria 94",
+        "AUTOR": "Southern Perú"
+    },
+    {
+        "TITULO": "Memorias de un amigo casi verdadero",
+        "AUTOR": " M. B.. Brozon"
+    },
+    {
+        "TITULO": "Memorias de una cubanita",
+        "AUTOR": "Renee Mencer Caputo"
+    },
+    {
+        "TITULO": "Método de Flauta Dulce",
+        "AUTOR": "Isoprano"
+    },
+    {
+        "TITULO": "Métodos de Estudio",
+        "AUTOR": "Cultural"
+    },
+    {
+        "TITULO": "Mi amigo el grupo en los andes encanta",
+        "AUTOR": "Heriberto Tejo"
+    },
+    {
+        "TITULO": "Mi nueva Geografía 1° sec. ",
+        "AUTOR": "Juan Agusto Benavides Estrada"
+    },
+    {
+        "TITULO": "Mi planta de naranja lima",
+        "AUTOR": "Mauro de Vasconcelos"
+    },
+    {
+        "TITULO": "Milagros una osa extraordinaria",
+        "AUTOR": " Hernán Garrido- Leca"
+    },
+    {
+        "TITULO": "Minka 3",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Minka 6",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Mio Cid",
+        "AUTOR": "Anónimo"
+    },
+    {
+        "TITULO": "Mío Cid Recuerdos de mi padre",
+        "AUTOR": "María Isabel Molina"
+    },
+    {
+        "TITULO": "Mitos e historias aguarunas",
+        "AUTOR": "José Luis Jordana Lojana"
+    },
+    {
+        "TITULO": "Mitos, cuentos, leyendas de Moquegua",
+        "AUTOR": "Folleto"
+    },
+    {
+        "TITULO": "Mitos, enigmas y leyendas contemporáneas",
+        "AUTOR": "Gustavo Frías"
+    },
+    {
+        "TITULO": "Mitos, Leyendas y Cuentos Peruanos",
+        "AUTOR": "Jose María Arguedas"
+    },
+    {
+        "TITULO": "Momo",
+        "AUTOR": "Michael Ende"
+    },
+    {
+        "TITULO": "Momo",
+        "AUTOR": "Michael Ende"
+    },
+    {
+        "TITULO": "Moquegua",
+        "AUTOR": "Consejo Nacional de Amb."
+    },
+    {
+        "TITULO": "Moquegua Tus hijos te cantan",
+        "AUTOR": "Moisés Héctor Liendo Carpio"
+    },
+    {
+        "TITULO": "Mucho y sito el pequeñito",
+        "AUTOR": "Alfonsina Barrionuevo"
+    },
+    {
+        "TITULO": "Muestra de Arte Disecado",
+        "AUTOR": "Roy Vega Jacome"
+    },
+    {
+        "TITULO": "Mundo Vivo 3",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Música 1° sec.",
+        "AUTOR": "Francisco Pulgar Vidal"
+    },
+    {
+        "TITULO": "Música 2° se.",
+        "AUTOR": "Francisco Pulgar Vidal"
+    },
+    {
+        "TITULO": "Nana",
+        "AUTOR": "Emile Zoda"
+    },
+    {
+        "TITULO": "Nariata",
+        "AUTOR": "Monteiro Lobato"
+    },
+    {
+        "TITULO": "Narraciones extraordinarias",
+        "AUTOR": "Edgar Allan Poe"
+    },
+    {
+        "TITULO": "Narraciones extraordinarias ",
+        "AUTOR": "Edgard Hlan Pope"
+    },
+    {
+        "TITULO": "Narrativa Completa",
+        "AUTOR": "Cesar Vallejo"
+    },
+    {
+        "TITULO": "Narrativa Rusa Clásica",
+        "AUTOR": "Editorial Ecoma"
+    },
+    {
+        "TITULO": "Naturales siglo XXI 6",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Naturaleza 5 Cometa",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Naturaleza 6 Cometa",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Naturaleza comunidad y trabajo",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Naturaleza y Comunidad Siglo XXI 4 ",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Navajas en el Paladar",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "Niebla tomo I",
+        "AUTOR": "Miguel de Unamuno"
+    },
+    {
+        "TITULO": "Niebla Tomo I y II",
+        "AUTOR": "Miguel de Unamuno"
+    },
+    {
+        "TITULO": "Niebla Tomo II",
+        "AUTOR": "Miguel de Unamuno"
+    },
+    {
+        "TITULO": "No es el fin del Mundo",
+        "AUTOR": "Geraldine Mc Caughreen "
+    },
+    {
+        "TITULO": "No hay amor más grande",
+        "AUTOR": "Rochongo Pudarte"
+    },
+    {
+        "TITULO": "No me digas Bond",
+        "AUTOR": " Andrea Ferrari"
+    },
+    {
+        "TITULO": "Novelas Ejemplares",
+        "AUTOR": "Miguel de Cervantes S."
+    },
+    {
+        "TITULO": "Nuestra Poesía en el Tiempo (Antología)",
+        "AUTOR": "Antonio Colinas"
+    },
+    {
+        "TITULO": "Nueva Enciclopedia Temática 1",
+        "AUTOR": "Editorial Richards"
+    },
+    {
+        "TITULO": "Nueva Enciclopedia Temática 10",
+        "AUTOR": "Editorial Richards"
+    },
+    {
+        "TITULO": "Nueva Enciclopedia Temática 11",
+        "AUTOR": "Editorial Richards"
+    },
+    {
+        "TITULO": "Nueva Enciclopedia Temática 14",
+        "AUTOR": "Editorial Richards"
+    },
+    {
+        "TITULO": "Nueva Enciclopedia Temática 2",
+        "AUTOR": "Editorial Richards"
+    },
+    {
+        "TITULO": "Nueva Enciclopedia Temática 3",
+        "AUTOR": "Editorial Richards"
+    },
+    {
+        "TITULO": "Nueva Enciclopedia Temática 5",
+        "AUTOR": "Editorial Richards"
+    },
+    {
+        "TITULO": "Nueva Enciclopedia Temática 6",
+        "AUTOR": "Editorial Richards"
+    },
+    {
+        "TITULO": "Nueva Enciclopedia Temática 7 ",
+        "AUTOR": "Editorial Richards"
+    },
+    {
+        "TITULO": "Nueva Enciclopedia Temática 8",
+        "AUTOR": "Editorial Richards"
+    },
+    {
+        "TITULO": "Nueva Enciclopedia Temática 9",
+        "AUTOR": "Editorial Richards"
+    },
+    {
+        "TITULO": "Nuevo Testamento",
+        "AUTOR": "Ediciones Paulinas"
+    },
+    {
+        "TITULO": "Números con lógica 1",
+        "AUTOR": "Rita Peñaloza A. – Roberto Romero R."
+    },
+    {
+        "TITULO": "Números con lógica 4",
+        "AUTOR": "Rita Peñaloza A. – Roberto Romero R."
+    },
+    {
+        "TITULO": "Nunca confíes en mi",
+        "AUTOR": "Renato Chisperos"
+    },
+    {
+        "TITULO": "Ña Catita",
+        "AUTOR": "Manuel Ascencio Segura"
+    },
+    {
+        "TITULO": "Ña Catita",
+        "AUTOR": "Manuel A. SegurA"
+    },
+    {
+        "TITULO": "Ña Catita \/El Sargento Canuto",
+        "AUTOR": "Manuel Ascendió Segura"
+    },
+    {
+        "TITULO": "Ña Catita,el sargento canuto, antolog. de la poesía",
+        "AUTOR": "Manuel A. Segura y Varios"
+    },
+    {
+        "TITULO": "Ñuqanchik 5° personal social",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Ñuqanchik 6° personal social",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Obra Poética",
+        "AUTOR": "J.M. Eguren"
+    },
+    {
+        "TITULO": "Obras Completas",
+        "AUTOR": "Abram Valdelomar"
+    },
+    {
+        "TITULO": "Obras Completas",
+        "AUTOR": "Abram Valdelomar"
+    },
+    {
+        "TITULO": "Obras Completas",
+        "AUTOR": "Abram Valdelomar"
+    },
+    {
+        "TITULO": "Obras Completas",
+        "AUTOR": "Abram Valdelomar "
+    },
+    {
+        "TITULO": "Ohapaqñan Sistema Vial Incaico 2ed.",
+        "AUTOR": "Jhon Hyslop"
+    },
+    {
+        "TITULO": "Ojitos de Ángel",
+        "AUTOR": "Ramón Fonseca Mora"
+    },
+    {
+        "TITULO": "Oliver Twist",
+        "AUTOR": "Charles Dickens"
+    },
+    {
+        "TITULO": "Ollantay",
+        "AUTOR": "Anónimo"
+    },
+    {
+        "TITULO": "Ollantay",
+        "AUTOR": "José Sebastián Barranca"
+    },
+    {
+        "TITULO": "Ollantay",
+        "AUTOR": "Edit. Chirre"
+    },
+    {
+        "TITULO": "Once minutos",
+        "AUTOR": "Paulo Coelho"
+    },
+    {
+        "TITULO": "Operativo corazón partido",
+        "AUTOR": " María Fernanda H."
+    },
+    {
+        "TITULO": "Orientación psicología para la familia",
+        "AUTOR": "Belén Salvatierra"
+    },
+    {
+        "TITULO": "Origen y destino del campo magnét. Tierra",
+        "AUTOR": "Thomas G. Barner"
+    },
+    {
+        "TITULO": "Otelo",
+        "AUTOR": "William Shakespeare"
+    },
+    {
+        "TITULO": "Otelo ",
+        "AUTOR": "William Shakespeare"
+    },
+    {
+        "TITULO": "Paco Yunque",
+        "AUTOR": "César Vallejo"
+    },
+    {
+        "TITULO": "País de Jauja",
+        "AUTOR": "Edgardo Rivera"
+    },
+    {
+        "TITULO": "Palo y astilla, padres e hijos en el cuento peruano",
+        "AUTOR": " Varios"
+    },
+    {
+        "TITULO": "Paloma",
+        "AUTOR": "  Jaime Homar"
+    },
+    {
+        "TITULO": "Palomita 1",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Pánico en la librería",
+        "AUTOR": " Mauricio de la Cuba"
+    },
+    {
+        "TITULO": "Para ti",
+        "AUTOR": "Pilar de Lund"
+    },
+    {
+        "TITULO": "Paradiso",
+        "AUTOR": "Jose Lozano Lima"
+    },
+    {
+        "TITULO": "Parapsicología",
+        "AUTOR": "Massimo Horni"
+    },
+    {
+        "TITULO": "Pases de lecturas e imágenes 2",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Patas arriba",
+        "AUTOR": " María Fernanda H."
+    },
+    {
+        "TITULO": "Pateando lunas",
+        "AUTOR": " Roy Berocay"
+    },
+    {
+        "TITULO": "Patrimonio de los Cuentos Ganadores y Finalistas de la XVIII Cope 2014 4",
+        "AUTOR": "Johann Page"
+    },
+    {
+        "TITULO": "Paty, juega y razona 4",
+        "AUTOR": "Antonieta Ferro"
+    },
+    {
+        "TITULO": "Pautas y normas conducen al éxito personal ",
+        "AUTOR": "Paul C. Jagot."
+    },
+    {
+        "TITULO": "Pedagógica del oprimido ",
+        "AUTOR": "Paulo Erreire"
+    },
+    {
+        "TITULO": "Pedro Durand el llano en llamas",
+        "AUTOR": "Juan Rulfo"
+    },
+    {
+        "TITULO": "Pedro Paramo",
+        "AUTOR": "Juan Rulfo"
+    },
+    {
+        "TITULO": "Pedro Páramo y el llano en ll.",
+        "AUTOR": "Juan Rulfo"
+    },
+    {
+        "TITULO": "Pensamiento y Palabra 1° 2° 3° 4°",
+        "AUTOR": "Wilfredo Gonzáles Flores"
+    },
+    {
+        "TITULO": "Per Ibáñez y el comendador de Ocaña",
+        "AUTOR": "Lope de Vega"
+    },
+    {
+        "TITULO": "Perdidos en la montaña",
+        "AUTOR": "Virginia Wiese Miro Quesd"
+    },
+    {
+        "TITULO": "Perdidos en la montaña",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Personal Social 3",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Personal Social 4",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Personal Social 5",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Personal Social 6",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Perverso",
+        "AUTOR": " Mauricio Paredes"
+    },
+    {
+        "TITULO": "Pinocho",
+        "AUTOR": "Carlos Colladi"
+    },
+    {
+        "TITULO": "Pirámide Lógico matemático 3",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Pirámide Lógico matemático 4",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Piratas en el Callao",
+        "AUTOR": " Hernán Garrido- Leca"
+    },
+    {
+        "TITULO": "Pizarro ",
+        "AUTOR": "Tomo I"
+    },
+    {
+        "TITULO": "Planeamiento Estrateg.para Micro y Peq. Emp.",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Planeando tu vida",
+        "AUTOR": "Susan Pick de Weiss – Jose Aguilar"
+    },
+    {
+        "TITULO": "Platero y yo ",
+        "AUTOR": "Juan Ramón Jiménez"
+    },
+    {
+        "TITULO": "Poema del Mio Cid",
+        "AUTOR": "D Ángeles Cardona Gilbert"
+    },
+    {
+        "TITULO": "Poemas completos",
+        "AUTOR": "Cesar Vallejo"
+    },
+    {
+        "TITULO": "Poesia Completa",
+        "AUTOR": "Cesar Vallejo"
+    },
+    {
+        "TITULO": "Poesía Sacra",
+        "AUTOR": "F. L. de León- S- Teresa"
+    },
+    {
+        "TITULO": "Poesía Selecta",
+        "AUTOR": "Manrique de la vega"
+    },
+    {
+        "TITULO": "Poesías cuentos y leyendas de Ilo",
+        "AUTOR": "Folleto"
+    },
+    {
+        "TITULO": "Porque a mi ",
+        "AUTOR": "Valeria Picassa Pollizzi"
+    },
+    {
+        "TITULO": "Prevención de Desastres",
+        "AUTOR": "Julio Koroiwa"
+    },
+    {
+        "TITULO": "Primeros Auxilios",
+        "AUTOR": "Southern Perú"
+    },
+    {
+        "TITULO": "Primeros auxilios 5",
+        "AUTOR": "O. Díaz. I."
+    },
+    {
+        "TITULO": "Principios Elementales de la filosofía",
+        "AUTOR": "Georgos Politzer"
+    },
+    {
+        "TITULO": "Proced. en Historia Punto de Vista Did.",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Procemium Mortis",
+        "AUTOR": "Renato Sandoval B."
+    },
+    {
+        "TITULO": "Prologo",
+        "AUTOR": "Nelson Mandela"
+    },
+    {
+        "TITULO": "Prometeo Encadenado-la presa",
+        "AUTOR": "Esquilo"
+    },
+    {
+        "TITULO": "Psicología 4°sec ",
+        "AUTOR": "Rolando Andrade"
+    },
+    {
+        "TITULO": "Psicología 4° sec.",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Psicología 4° sec. ",
+        "AUTOR": "Juan Germán Prado"
+    },
+    {
+        "TITULO": "Psicología de la Enseñanza",
+        "AUTOR": "Donald Ross Green"
+    },
+    {
+        "TITULO": "Pulgarcito",
+        "AUTOR": "Charles Perralt"
+    },
+    {
+        "TITULO": "Puruchuco",
+        "AUTOR": "Antonio Jiménez"
+    },
+    {
+        "TITULO": "Que enseña realmente la biblia",
+        "AUTOR": "Sociedad de Pensilvania"
+    },
+    {
+        "TITULO": "Querido hijo, estas despedido",
+        "AUTOR": " Jordi Sierra I fabra"
+    },
+    {
+        "TITULO": "Química",
+        "AUTOR": "Jerman Coila Arenas"
+    },
+    {
+        "TITULO": "Química ",
+        "AUTOR": " "
+    },
+    {
+        "TITULO": "Química 3° sec.",
+        "AUTOR": "Ing. Benjamin Romero A."
+    },
+    {
+        "TITULO": "Química 3° sec.",
+        "AUTOR": "Mario Zapana Brillante"
+    },
+    {
+        "TITULO": "Química 5° sec.",
+        "AUTOR": "Tauro del Pino"
+    },
+    {
+        "TITULO": "Química orgánica ",
+        "AUTOR": "Jhon Muc Murey"
+    },
+    {
+        "TITULO": "Química tecnología y ambiente",
+        "AUTOR": "Fidel A. Cardenas S."
+    },
+    {
+        "TITULO": "Química teoría y experimental 3° sec.",
+        "AUTOR": "J. Luis Cordova Prado"
+    },
+    {
+        "TITULO": "Química teoría y practica",
+        "AUTOR": "Salvador Timoteo"
+    },
+    {
+        "TITULO": "Química- teoría y practica",
+        "AUTOR": "Walter Cartolin Rodriguez"
+    },
+    {
+        "TITULO": "Quiquiriqui…. Estos cuentos son para ti",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Quiquito el pollito",
+        "AUTOR": " Rosa Cerna Guardia"
+    },
+    {
+        "TITULO": "Rayuela",
+        "AUTOR": "Julio Cortázar"
+    },
+    {
+        "TITULO": "Razonamiento Lógico Matemático",
+        "AUTOR": "David Calle Honorario"
+    },
+    {
+        "TITULO": "Razonamiento Matemático 5",
+        "AUTOR": "Enrique Matto Muzante"
+    },
+    {
+        "TITULO": "Razonamiento Matemático 6",
+        "AUTOR": "Enrique Matto Muzante"
+    },
+    {
+        "TITULO": "Razonamiento Matemático4",
+        "AUTOR": "Enrique Matto Muzante"
+    },
+    {
+        "TITULO": "Razonamiento Verbal",
+        "AUTOR": "Miguel Mateo Rojas"
+    },
+    {
+        "TITULO": "Razonamiento Verbal 3°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Razonamiento Verbal 5",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Razonamiento Verbal 2° ",
+        "AUTOR": "Wilfredo Gonzáles Flores"
+    },
+    {
+        "TITULO": "Razonamiento Verbal 3° 4°",
+        "AUTOR": "Wilfredo Gonzáles Flores"
+    },
+    {
+        "TITULO": "Razonamiento Verbal 1° 2°",
+        "AUTOR": "Santos f. Ludeña"
+    },
+    {
+        "TITULO": "Razonamiento Verbal azul 2°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Razonamiento Verbal rosado 1°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Razonamiento Verbal 2",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Razonamiento Verbal 3",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Razonamiento Verbal 6",
+        "AUTOR": "Enrique González Rayo"
+    },
+    {
+        "TITULO": "Razonamiento Verbal amigos 5°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Razonamiento Verbal amigos 1° 2°",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Rebelde por Ronca",
+        "AUTOR": "Manuel Scorza"
+    },
+    {
+        "TITULO": "Rebeldes",
+        "AUTOR": "Susan E. Hintos"
+    },
+    {
+        "TITULO": "Reglamento Internacional de Atletismo ",
+        "AUTOR": "Instituto Peruano del Deporte"
+    },
+    {
+        "TITULO": "Relac. Humanas entre Padres, Niños Maestro",
+        "AUTOR": "Pierre Weil"
+    },
+    {
+        "TITULO": "Relatos escalofriantes de Roald Dahl",
+        "AUTOR": "Roald Dahl"
+    },
+    {
+        "TITULO": "Relatos Fantásticos",
+        "AUTOR": "Neus Casas"
+    },
+    {
+        "TITULO": "Retazos de la historia de Ilo",
+        "AUTOR": "Luis E. Kuon Cabello "
+    },
+    {
+        "TITULO": "Retómate 1",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Retómate 1",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Retómate 4",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Retómate 6",
+        "AUTOR": "Editorial Norma"
+    },
+    {
+        "TITULO": "Richmond Student Diccionario Inglés",
+        "AUTOR": "Richmond"
+    },
+    {
+        "TITULO": "Rimas y leyenda",
+        "AUTOR": "Gustavo Adolfo Bécquer"
+    },
+    {
+        "TITULO": "Ritmo el Efecto Organizador",
+        "AUTOR": "Victoria Santa Cruz"
+    },
+    {
+        "TITULO": "Robinson Crusse",
+        "AUTOR": "Daniel Defuse"
+    },
+    {
+        "TITULO": "Rolando 5°",
+        "AUTOR": "Everardo Zapata Santillana"
+    },
+    {
+        "TITULO": "Romeo y Julieta",
+        "AUTOR": "William Shakespeare"
+    },
+    {
+        "TITULO": "Romeo Y Julieta",
+        "AUTOR": "Toribio Anyarin Injante"
+    },
+    {
+        "TITULO": "Rosa Cuchillo",
+        "AUTOR": "Oscar Colchado Lucio"
+    },
+    {
+        "TITULO": "Rosalinda tiene ideas en la cabeza",
+        "AUTOR": "Christine Nostlinger"
+    },
+    {
+        "TITULO": "Rugor, el dragón enamorado",
+        "AUTOR": " Santiago Roncagliolo"
+    },
+    {
+        "TITULO": "Saltamontes libro de lectura 6",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Sangre de Campeón",
+        "AUTOR": "Carlos Cuauhtémoc"
+    },
+    {
+        "TITULO": "Sarita Colonia viene Volando",
+        "AUTOR": "Eduardo Gonzales V."
+    },
+    {
+        "TITULO": "Se busca novia para solitario George",
+        "AUTOR": " Verónica CoelloGame"
+    },
+    {
+        "TITULO": "Se nos perdió el alfabeto",
+        "AUTOR": " Jose Luis Mejia"
+    },
+    {
+        "TITULO": "Secuestrado",
+        "AUTOR": "R. L. Stevenson"
+    },
+    {
+        "TITULO": "Selección de Cuentos",
+        "AUTOR": "Julio Ribeyro"
+    },
+    {
+        "TITULO": "Semblanza del pasado Ileño nombres hicieron H.",
+        "AUTOR": "Ricardo Gamarra y Menéndez"
+    },
+    {
+        "TITULO": "Sembrando 4°",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Sembrando 6°",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Señora Doubtfire",
+        "AUTOR": "Anne Fine"
+    },
+    {
+        "TITULO": "Sepa defender su fe",
+        "AUTOR": "P. Paulo Diercky – P Miguel J."
+    },
+    {
+        "TITULO": "Serpiente de Oro",
+        "AUTOR": "Ciro Alegría"
+    },
+    {
+        "TITULO": "Shakespeare vida y obra",
+        "AUTOR": "Juan Carlos M. Román L."
+    },
+    {
+        "TITULO": "Shawmoncer el hechizero de la sombra",
+        "AUTOR": "G. P. Taylor"
+    },
+    {
+        "TITULO": "Siempre hay caminos",
+        "AUTOR": "Ciro Alegría "
+    },
+    {
+        "TITULO": "Simbad el marino",
+        "AUTOR": "Las mil y una noche"
+    },
+    {
+        "TITULO": "Sin novedad en el frente ",
+        "AUTOR": "Erich María Remarque"
+    },
+    {
+        "TITULO": "Sol de Media Noche",
+        "AUTOR": "Stephenie Meyer"
+    },
+    {
+        "TITULO": "Sol en su piel",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "Soñando con la turuquita",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Soñar con la ciudad ",
+        "AUTOR": "Ramon Fonseca Mora"
+    },
+    {
+        "TITULO": "Sreinner del ocultismo",
+        "AUTOR": "Arnel Esotérica"
+    },
+    {
+        "TITULO": "Sueño de Navidad",
+        "AUTOR": "Charles Dickens"
+    },
+    {
+        "TITULO": "Tácticas de Tenis",
+        "AUTOR": "C.M Janes"
+    },
+    {
+        "TITULO": "Técnica Moderna de Primeros Auxilios",
+        "AUTOR": "Dr. Marcelo A. Hummerly"
+    },
+    {
+        "TITULO": "Técnicas Narrativas",
+        "AUTOR": "José Antonio Bravo"
+    },
+    {
+        "TITULO": "Templado",
+        "AUTOR": "Jorge Eslava"
+    },
+    {
+        "TITULO": "Teoría del Movimiento",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Testimonio de Lucha",
+        "AUTOR": "Carlos Delgado"
+    },
+    {
+        "TITULO": "Tinta roja",
+        "AUTOR": "Alberto Fugget"
+    },
+    {
+        "TITULO": "Todas las sangres",
+        "AUTOR": "José María Arguedas"
+    },
+    {
+        "TITULO": "Todo sobre los duendes- relatos",
+        "AUTOR": "Gladys Flores Heredia"
+    },
+    {
+        "TITULO": "Tópico de cáncer",
+        "AUTOR": "Henry Miller"
+    },
+    {
+        "TITULO": "Tradiciones de crimen y espanto",
+        "AUTOR": "Ricardo Palma"
+    },
+    {
+        "TITULO": "Tradiciones Peruanas",
+        "AUTOR": "Ricardo Palma"
+    },
+    {
+        "TITULO": "Tradiciones Peruanas",
+        "AUTOR": "Ricardo Palma"
+    },
+    {
+        "TITULO": "Tradiciones Peruanas",
+        "AUTOR": "Ricardo Palma"
+    },
+    {
+        "TITULO": "Tradiciones Peruanas",
+        "AUTOR": "Ricardo Palma"
+    },
+    {
+        "TITULO": "Tragedias Completas ",
+        "AUTOR": "Shakespeare"
+    },
+    {
+        "TITULO": "Tras la pista del abuelo",
+        "AUTOR": " Alfredo Gómez Cerda"
+    },
+    {
+        "TITULO": "Trasnoche",
+        "AUTOR": " Pablo de Santis"
+    },
+    {
+        "TITULO": "Tratados Morales ",
+        "AUTOR": "Senece"
+    },
+    {
+        "TITULO": "Tres días para Matero",
+        "AUTOR": "José Antonio Calloso"
+    },
+    {
+        "TITULO": "Tres Novelas ejemplares",
+        "AUTOR": "Miguel de Cervantes Saavedra"
+    },
+    {
+        "TITULO": "Triangulo de muerte cívica",
+        "AUTOR": "A.P. Orellana Ariza"
+    },
+    {
+        "TITULO": "Trin Trin palabrin",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Túpac Amaru",
+        "AUTOR": "Carlos Daniel Valcárcel"
+    },
+    {
+        "TITULO": "Tusuj, un cuy especial",
+        "AUTOR": " Andrea Paz\/Claudia P"
+    },
+    {
+        "TITULO": "Tuyo Sagrado",
+        "AUTOR": "Wayne W. Dyer"
+    },
+    {
+        "TITULO": "Un día en el parque de la leyenda",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Un Mundo Para Julius",
+        "AUTOR": "Alfredo Grice E."
+    },
+    {
+        "TITULO": "Un Pasado de Violencia Un Futuro de Paz",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Un superhéroe en casa",
+        "AUTOR": " Jorge Eslava"
+    },
+    {
+        "TITULO": "Una cama para tres",
+        "AUTOR": " Yolanda Reyes"
+    },
+    {
+        "TITULO": "Una familia para Rodolfo",
+        "AUTOR": " Vera, Claudia y Nora"
+    },
+    {
+        "TITULO": "Una flor de cuentos para \/llevar en el corazón",
+        "AUTOR": " Rosa Cerna Guardia"
+    },
+    {
+        "TITULO": "Una gatita en la ciudad",
+        "AUTOR": "Menpo Giardenelli"
+    },
+    {
+        "TITULO": "Una Verdad Incomoda",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Una y mil noches de Sherazada",
+        "AUTOR": " Ana María Shua"
+    },
+    {
+        "TITULO": "Urpi",
+        "AUTOR": "Manuel Valdivia"
+    },
+    {
+        "TITULO": "Ushanan jampi",
+        "AUTOR": "Enrique López albujar"
+    },
+    {
+        "TITULO": "Ustedes son mis amigos 3° sec. ",
+        "AUTOR": "Arzobispado de Lima"
+    },
+    {
+        "TITULO": "Utopía 1",
+        "AUTOR": "Tomas Marro"
+    },
+    {
+        "TITULO": "Veinte mil lenguas del viaje submarino",
+        "AUTOR": "Julio Verne"
+    },
+    {
+        "TITULO": "Ven y sígueme 3° sec.",
+        "AUTOR": "Bruno"
+    },
+    {
+        "TITULO": "Ventanal 2 Lenguaje",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ventanal 3 Lenguaje",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Ventanal 5 Lenguaje",
+        "AUTOR": "Santillana"
+    },
+    {
+        "TITULO": "Verónica decide morir",
+        "AUTOR": "Paulo Coelho"
+    },
+    {
+        "TITULO": "Verónica la niña Biónica",
+        "AUTOR": " Mauricio Paredes"
+    },
+    {
+        "TITULO": "Vértigo",
+        "AUTOR": " M. B.. Brozon"
+    },
+    {
+        "TITULO": "Vértigo bajo la luna llena",
+        "AUTOR": "Javier Arévalo"
+    },
+    {
+        "TITULO": "Viaje al centro de la Tierra",
+        "AUTOR": "Julio Verne"
+    },
+    {
+        "TITULO": "Vida del Buscón Don Pablo",
+        "AUTOR": "Francisco de Quevedo"
+    },
+    {
+        "TITULO": "Vida lucha un maestro Sutepista Siglo XX",
+        "AUTOR": "Alejandro del Río Barboza"
+    },
+    {
+        "TITULO": "Vida Popular de San Cayetano",
+        "AUTOR": "Esteban Felgueras"
+    },
+    {
+        "TITULO": "Vida y Ciencia 6",
+        "AUTOR": "Ministerio de Educación"
+    },
+    {
+        "TITULO": "Viernes 13",
+        "AUTOR": "David Godd´s"
+    },
+    {
+        "TITULO": "Visión Cristiana del Mundo 5° sec.",
+        "AUTOR": "F.T.D."
+    },
+    {
+        "TITULO": "Voces de nuestra tierra",
+        "AUTOR": "Martha Fernández de López"
+    },
+    {
+        "TITULO": "Vox Horrísona",
+        "AUTOR": "Luis Hernandez"
+    },
+    {
+        "TITULO": "Vuela usted Mañana",
+        "AUTOR": "M. J. de Larra"
+    },
+    {
+        "TITULO": "Walter Scott",
+        "AUTOR": "Luanhoe"
+    },
+    {
+        "TITULO": "Werther",
+        "AUTOR": "Goethe"
+    },
+    {
+        "TITULO": "Yawar Fiesta",
+        "AUTOR": "Jose María Arguedas"
+    },
+    {
+        "TITULO": "Yaxes",
+        "AUTOR": "Rosa Carrasco Zuleta"
+    },
+    {
+        "TITULO": "Yo el supremo",
+        "AUTOR": "Augusto Roca Bastos"
+    },
+    {
+        "TITULO": "Yo nunca digo adiós",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Yo soy",
+        "AUTOR": "Salvador Velarde"
+    },
+    {
+        "TITULO": "Yo también tengo un padre",
+        "AUTOR": "sin autor"
+    },
+    {
+        "TITULO": "Yo tengo un padre",
+        "AUTOR": "Christine Nostlinguer"
+    }
+]
