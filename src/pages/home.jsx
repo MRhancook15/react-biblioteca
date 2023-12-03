@@ -46,7 +46,7 @@ function home() {
                 orderBy('titulo'),
                 limit(numLibrosCargados)
             );
-            //console.log("lib",lib)
+            console.log("xdddd");
             const querySnapshot = await getDocs(lib);
             const librosData = [];
 
@@ -68,10 +68,11 @@ function home() {
             // Verificar si el JSON ya está en el almacenamiento local
             const jsonFromStorage = localStorage.getItem('librosStorage');
             // Si no está en el almacenamiento local, guardar el JSON
+            console.log(jsonFromStorage)
             if (!jsonFromStorage) {
                 // Guardar el JSON importado en el almacenamiento local
+                localStorage.setItem('librosStorage', JSON.stringify({libros: libraryData}));
             }
-            localStorage.setItem('librosStorage', JSON.stringify({libros: libraryData}));
 
         } catch (error) {
             console.error('Error al cargar los libros', error);
@@ -80,6 +81,27 @@ function home() {
     const cargarMasLibros = () => {
         setNumLibrosCargados(numLibrosCargados + librosPorPagina);
     };
+
+    // Función para eliminar un libro del localStorage
+    function eliminarLibroDeLocalStorage(titulo) {
+        const librosStorage = JSON.parse(localStorage.getItem('librosStorage')) || { libros: [] };
+        const libros = librosStorage.libros;
+    
+        // Encontrar el índice del libro en el localStorage por su título
+        const indice = libros.findIndex(libro => libro.TITULO === titulo);
+    
+        if (indice !== -1) {
+            // Eliminar el libro del array en el localStorage
+            libros.splice(indice, 1);
+    
+            // Actualizar los datos en el localStorage
+            localStorage.setItem('librosStorage', JSON.stringify(librosStorage));
+            console.log(`Libro con título '${titulo}' eliminado del localStorage.`);
+        } else {
+            console.log(`Libro con título '${titulo}' no encontrado en el localStorage.`);
+        }
+    }
+
     // FUNCION DE ELIMINAR LIBRO
     // 5. Eliminar  por un id
     const deleteBook = async (id) => {
@@ -88,12 +110,14 @@ function home() {
             await deleteDoc(bookDoc);
             // Actualiza el estado de libros eliminando el libro con el ID correspondiente
             setLibros((prevLibros) => prevLibros.filter((book) => book.id !== id));
+            
+
         } catch (error) {
             console.error("Error al eliminar el documento:", error);
         }
     }
 
-    const confirmDelete = (id) => {
+    const confirmDelete = (id,titulo) => {
         Swal.fire({
             title: 'Seguro que quieres eliminarlo?',
             text: "No podrás revertir esto.!",
@@ -104,6 +128,8 @@ function home() {
             confirmButtonText: 'Si, elimina esto!'
         }).then((result) => {
             if (result.isConfirmed) {
+                console.log(titulo)
+                eliminarLibroDeLocalStorage(titulo);
                 deleteBook(id)
                 Swal.fire(
                     'Eliminado!',
@@ -426,7 +452,7 @@ function home() {
                                             <button onClick={() => { openModal(); if (book && book.id) getBooksById(book.id); setSelectedBookId(book.id); }} >
                                                 <GrUpdate />
                                             </button>
-                                            <button onClick={() => { confirmDelete(book.id) }}>
+                                            <button onClick={() => { confirmDelete(book.id, book.titulo) }}>
                                                 <AiFillDelete />
                                             </button>
                                         </span>
